@@ -1,0 +1,45 @@
+name: Update News
+
+on:
+  schedule:
+    # UTC 01:00-09:30 = 北京 09:00-17:30，每 30 分钟抓一次
+    - cron: '0,30 1-9 * * 1-5'
+    # 周末也跑，频率降低到每小时
+    - cron: '0 1-9 * * 0,6'
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install feedparser requests akshare
+
+      - name: Run news fetcher
+        run: python scripts/fetch_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/news.json docs/index.html
+          git diff --staged --quiet && echo "No changes to commit" || (
+            git commit -m "chore: update news $(TZ='Asia/Shanghai' date +'%m-%d %H:%M')"
+            git push
+          )
