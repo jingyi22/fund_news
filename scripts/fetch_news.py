@@ -234,7 +234,9 @@ def render_html(payload: dict):
     news_json_str = json.dumps(payload, ensure_ascii=False)
     sectors = ["全部"] + list(SECTOR_KEYWORDS.keys()) + ["综合/其他"]
     sector_options = "\n".join(
-        f'<button class="sector-btn {'active' if s == '全部' else ''}" data-sector="{s}">{s}</button>'
+        '<button class="sector-btn {}" data-sector="{}">{}</button>'.format(
+            "active" if s == "全部" else "", s, s
+        )
         for s in sectors
     )
 
