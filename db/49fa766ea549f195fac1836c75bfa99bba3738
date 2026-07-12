@@ -1,0 +1,19 @@
+requirements.txt
+  s_eaa5d0ba0d5fbc::t_6cf1de38f2d151 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "db49fa766ea549f195fac1836c75bfa99bba3738",
+  "prompts": {},
+  "sessions": {
+    "s_eaa5d0ba0d5fbc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ccf28eb-a455-4822-9145-4f4a87f4336d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Elena Lu （陆靖沂） <elenalu@trip.com>"
+    }
+  }
+}
