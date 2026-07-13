@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-07-13 10:14 北京时间",
+  "last_updated": "2026-07-13 10:19 北京时间",
   "total": 87,
   "items": [
+    {
+      "id": "16d72fb76db8",
+      "title": "广东顺德农商行：执行董事、行长王磊因工作调动辞任",
+      "summary": "7月13日金融一线消息，广东顺德农商行近日发布公告称，因工作调动，王磊辞去该行执行董事、行长等职务。 公开信息显示，王磊，博士研究生学历，高级经济师。",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-07-13/doc-inihrnpi2294829.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-13T10:18+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "4ab201b5f962",
       "title": "翰森制药早盘涨逾3% HS-20093治疗小细胞肺癌III期临床研究达到主要终点",
@@ -535,17 +546,6 @@
       "title": "酒价内参7月13日价格发布：青花汾20下跌5元",
       "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月13日整体低位微幅回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9854元...",
       "url": "https://finance.sina.com.cn/chanjing/jync/djbd/2026-07-13/doc-inihrhfm2367079.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-13T09:17+08:00",
-      "sector": "消费",
-      "sentiment": "negative",
-      "importance": "important"
-    },
-    {
-      "id": "81622af76b2d",
-      "title": "酒价内参7月13日价格发布：古井贡古20下跌3元",
-      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月13日整体低位微幅回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9854元...",
-      "url": "https://finance.sina.com.cn/chanjing/jync/djbd/2026-07-13/doc-inihrhfm2367208.shtml",
       "source": "新浪财经",
       "pub_time": "2026-07-13T09:17+08:00",
       "sector": "消费",
