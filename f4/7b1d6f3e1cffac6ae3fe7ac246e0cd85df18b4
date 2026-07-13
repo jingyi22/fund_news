@@ -1,0 +1,21 @@
+.github/workflows/update.yml
+  s_eaa5d0ba0d5fbc::t_2ca3121b1e48ff 41-42
+scripts/fetch_news.py
+  s_eaa5d0ba0d5fbc::t_bec14e06475020 3-6,11,18-23,33,36-45,49-50,52-55,58-60,63-69,103-115,119,121,124,126,134,141-142,144-162,166,173-180,182,185-189,196-220,225-227,231-233,235-239,246,248,254,286,297,304,325-326,340,346-347,351-352,356-357,360,362,364-366,375-377,379-380,382,385,389,402
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "f47b1d6f3e1cffac6ae3fe7ac246e0cd85df18b4",
+  "prompts": {},
+  "sessions": {
+    "s_eaa5d0ba0d5fbc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ccf28eb-a455-4822-9145-4f4a87f4336d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Elena Lu （陆靖沂） <elenalu@trip.com>"
+    }
+  }
+}
