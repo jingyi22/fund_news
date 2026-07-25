@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-07-25 16:55 北京时间",
-  "total": 101,
+  "last_updated": "2026-07-25 18:21 北京时间",
+  "total": 99,
   "items": [
+    {
+      "id": "79e0c33ff0ad",
+      "title": "三星拿下2000亿美元大单 将向博通供应芯片",
+      "summary": "三星电子获得一份价值逾2000亿美元的合同，将向博通供应芯片，两家公司正努力在人工智能（AI）基础设施市场争取更大份额。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniizkxi1302644.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T18:10+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "69c76fb25ee4",
+      "title": "从阿里182亿到携程51亿，平台反垄断处罚三度升级",
+      "summary": "来源：三言财经 7月25日，市场监管总局依法对携程集团滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 事实上，自我国平台经济反垄断监管启动以来...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-25/doc-iniizkxi1295618.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T17:54+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "a3698e7b8918",
+      "title": "乌克兰寻求与加拿大签署为期30年的能源协议",
+      "summary": "乌克兰第一副总理兼能源部长杰尼斯·什梅加尔周六表示，乌克兰正寻求与加拿大签署一项为期30年的战略能源协议，并提议建立以加拿大液化天然气供应为重点的“能源安全桥梁”。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniizkxf1073682.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T17:51+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "12134226dea3",
+      "title": "机票越搜越贵网友发帖抵制",
+      "summary": "【#机票越搜越贵网友发帖抵制#】近日，大量网友在社交平台吐槽机票越搜越贵，尝试各类办法应对疑似大数据杀熟现象。有网友发现，频繁查询航班后票价上涨...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniizkwy9012448.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T17:49+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "209487360d59",
+      "title": "晶泰控股上半年预计亏损超2亿元，AI制药行业难逃盈亏震荡？",
+      "summary": "21世纪经济报道记者 闫硕 去年业绩刚由亏转盈，今年上半年又转向亏损。 7月24日，港股AI for Science龙头企业晶泰控股（02228.HK）发布盈利预警...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-25/doc-iniizkxf1074623.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T17:49+08:00",
+      "sector": "AI/科技",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "89e85992d439",
+      "title": "CPU卖爆了，英特尔却像那个干什么都辛酸的中年人",
+      "summary": "这次还能翻身吗？ 出品 | 虎嗅科技组 作者 | 梁卡尔 英特尔交出了一份近年来最好看的财报，却赶上了资本市场对AI投资最尖锐的一次现金流拷问。",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniizkwy8990923.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T17:17+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "65904bdc9321",
+      "title": "“订单暴涨3000%”！两大赛道，全球爆单",
+      "summary": "2026年中国经济“半年报”出炉。谁是那个出力最多的工业“主力军”？又是谁在工业里“扛大旗”？答案是两个关键词：装备制造、高技术制造。",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniizeri1180208.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-07-25T16:59+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "e8aa630bcba5",
       "title": "人形机器人的寿命短板：一些灵巧手使用50次就坏了",
@@ -333,17 +410,6 @@
       "importance": "normal"
     },
     {
-      "id": "65904bdc9321",
-      "title": "“订单暴涨3000%”！两大赛道，全球爆单",
-      "summary": "来源：央视财经 2026年中国经济“半年报”出炉。谁是那个出力最多的工业“主力军”？又是谁在工业里“扛大旗”？答案是两个关键词：装备制造、高技术制造。",
-      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniiyyip1343569.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T13:13+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
       "id": "074119a5e85b",
       "title": "爆料：“两国报复伊朗，秘密空袭”",
       "summary": "来源：参考消息 据美国《华尔街日报》网站7月24日报道，知情人士透露，巴林和科威特秘密派遣战机袭击了伊朗境内的目标，这是两国首次对德黑兰进行直接报复，这也表明...",
@@ -476,81 +542,15 @@
       "importance": "breaking"
     },
     {
-      "id": "9b25cceae7af",
-      "title": "易方达基金联合腾讯ima首发基金研选Skill，打造投研决策闭环",
-      "summary": "近日，易方达基金在腾讯ima平台的知识号全面焕新升级，正式上线“5大基金研选Skill × 3大知识库专区”。这是ima平台首个由基金公司推出的专业级“Skill+知识库”解决方案...",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-25/doc-iniiytzp1273977.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:57+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d324a7bfbde0",
-      "title": "证监会：进一步加大对证券期货违法犯罪的惩治力度",
-      "summary": "人民财讯7月25日电，近日，证监会首席律师、法治司司长程合红在证券期货犯罪审判前沿实务问题研讨会指出，我国资本市场刑事法治建设取得了显著成效，发挥了重要作用...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiytzr1407212.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:56+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "4017fc2814a9",
-      "title": "29.5亿元网络赌博案曝光，多人利用四方支付平台结算虚拟货币获刑",
-      "summary": "四年一度的世界杯刚刚结束，赌球、网络赌博和所谓“支付通道生意”又经历了一场狂欢。对普通人来说，网络赌博也许只是手机屏幕上的一次下注；但在司法案件中...",
-      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiytzm4497917.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:55+08:00",
-      "sector": "宏观/政策",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "c40c8484c68e",
       "title": "北约峰会期间美方紧急更换总统专机 幕后原因披露",
       "summary": "多名知情官员透露，本月特朗普结束土耳其行程时临时更换了专机——美方情报部门判定伊朗代理人武装存在针对性袭击总统及空军一号的可信威胁。",
       "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiytzp1272729.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-07-25T11:54+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
       "importance": "breaking"
-    },
-    {
-      "id": "f642c9f83fda",
-      "title": "盛传多次后，方星海最终落马",
-      "summary": "来源：财新 图片来自视觉中国 曾长期主管国际、发行等关键部门，风格以直率、敢言著称 文|财新王娟娟 盛传多次后，方星海最终落马。",
-      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiytzr1411958.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:50+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "2cb1e22f67bd",
-      "title": "“天价离婚案”宣判！前妻将分走约6.43亿美元",
-      "summary": "SK海力士的亿万富豪崔泰源（Chey Tae‑won），其个人财富因人工智能热潮大幅飙升。 近日，韩国法院在新一轮判决中，判令他向前妻支付9440亿韩元（约合6...",
-      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiytzp1272067.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:50+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "cc058376b018",
-      "title": "预计亏损超12亿元！建业地产出售两大王牌文旅项目",
-      "summary": "每经记者|陈利 每经编辑|董兴生 “有朝一日，我们要让中原文化小镇，包括中原的美食、建筑、戏曲、杂技、武术、国学、中医等等能够代表中原文化的元素，走向全国...",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-25/doc-iniiytzr1402388.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-07-25T11:47+08:00",
-      "sector": "综合/其他",
-      "sentiment": "negative",
-      "importance": "normal"
     },
     {
       "id": "390c5a5bdcea",
@@ -979,28 +979,6 @@
       "pub_time": "2026-07-25T05:43+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "0289de4bbad3",
-      "title": "“前”万亿富翁马斯克：特斯拉暴跌18%、星舰试飞推迟，身家一周缩水1300亿美元",
-      "summary": "特斯拉股价本周暴跌18%，周五收于313.03美元，创下自2022年以来最糟糕的单周表现。SpaceX则延续跌势，五天内下跌7.2%，周五收于115.07美元...",
-      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiycct4653758.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-07-25T05:38+08:00",
-      "sector": "综合/其他",
-      "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "ef1369f6aed7",
-      "title": "巴克莱：霍尔木兹海峡僵局或使2026年布伦特油价面临上行风险",
-      "summary": "巴克莱银行（Barclays）周五表示，其油价预测面临的上行风险正在加大，具体幅度取决于霍尔木兹海峡“僵局”持续的时间。 该行认为，在当前局势再持续一个月...",
-      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyccx1457702.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-07-25T05:23+08:00",
-      "sector": "金融",
-      "sentiment": "negative",
       "importance": "normal"
     },
     {
