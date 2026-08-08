@@ -1,7 +1,62 @@
 {
-  "last_updated": "2026-08-08 14:35 北京时间",
-  "total": 86,
+  "last_updated": "2026-08-08 15:41 北京时间",
+  "total": 92,
   "items": [
+    {
+      "id": "d7d17883e0e4",
+      "title": "吴声：双职工下班以后，谁都愿意吃饭，不愿意洗碗",
+      "summary": "“新物种爆炸·吴声商业方法发布 2026”于8月8日在香港举行。吴声坦言非常欣赏海尔智慧家庭空间智能方法论——AI不在于让家变得更加聪明，而是让家第一次活了过来。",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-08-08/doc-inimqtzr9727978.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T15:14+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "40b8766c7631",
+      "title": "一纸公告！东兴证券等撤诉，涉资3.72亿",
+      "summary": "一纸公告，将沉寂许久的泽达易盛案再度拉回到市场面前。 近日，格尔软件公告称，东兴证券等中介机构撤回了对该公司在内的39名被告的追偿权诉讼，法院裁定准许。",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-08/doc-inimqtzt6494617.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T15:09+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "7caca307b8fc",
+      "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
+      "summary": "财联社 财联社8月8日讯（编辑 刘蕊）尽管黄金在过去半年表现颓势，但华尔街分析师预测，黄金价格走势可能即将出现反转。 美东时间本周五...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqtzr9718010.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T14:58+08:00",
+      "sector": "有色/资源",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "85a6b8fe4a9f",
+      "title": "吴声爆赞联想AI能力，暗示收到联想赞助",
+      "summary": "“新物种爆炸·吴声商业方法发布 2026”于8月8日在香港举行。吴声在谈及联想公司时表示，联想成为了本次美加墨世界杯的AI底座。“当我随着裁判一起高度沉浸和融入的时候...",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-08-08/doc-inimqtzp2633778.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T14:52+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "b92f17dbc7fa",
+      "title": "吴声：AI模仿越多，汪峰的稀缺性则越大",
+      "summary": "“新物种爆炸·吴声商业方法发布 2026”于8月8日在香港举行。吴声在谈到日前对歌手汪峰的访问时表示，AI模仿越多，汪峰作为碳基个体的稀缺性则可能会被放大。",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-08-08/doc-inimqtzt6482874.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T14:44+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "661d50a2c1fd",
       "title": "公募股权变更再添一例，万联证券拿下长安基金控股权",
@@ -23,6 +78,17 @@
       "sector": "消费",
       "sentiment": "neutral",
       "importance": "normal"
+    },
+    {
+      "id": "5ae0524fb0ee",
+      "title": "多家A股公司公告：收到美国关税退税！最高近亿元",
+      "summary": "8月6日晚，贵州轮胎公告，公司境外全资子公司NACTR公司近期陆续收到美国海关与边境保护局的退税。截至目前，NACTR公司已累计收到退回关税及利息合计1198.30万美元...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqtzp2605900.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T14:00+08:00",
+      "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "important"
     },
     {
       "id": "382483bc35c5",
@@ -67,6 +133,17 @@
       "sector": "消费",
       "sentiment": "neutral",
       "importance": "normal"
+    },
+    {
+      "id": "bd396cce28ca",
+      "title": "因凡蒂诺被爆曾与女员工有染，国际足联、欧足联紧急回应",
+      "summary": "因凡蒂诺被爆担任欧足联秘书长期间与女员工有染，国际足联、欧足联相继回应。 据英国《每日电讯报》当地时间7日爆料，因凡蒂诺担任欧足联秘书长期间...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-08/doc-inimqptt9804944.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-08T13:22+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "breaking"
     },
     {
       "id": "6ffad4ece164",
@@ -480,7 +557,7 @@
       "title": "哥伦比亚新任总统德拉埃斯普列亚宣誓就职",
       "summary": "当地时间8月7日，哥伦比亚当选总统阿韦拉多·德拉埃斯普列亚在该国第三大城市卡利宣誓就职，任期四年。阿韦拉多·德拉埃斯普列亚现年47岁，是哥伦比亚律师...",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpwvz4456617.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T05:32+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -491,7 +568,7 @@
       "title": "特朗普力推30亿美元关键矿产投资项目",
       "summary": "美国总统唐纳德·特朗普周五在与矿业高管的会议上力推美国在关键矿产开采领域的30亿美元投资，旨在帮助美国摆脱依赖。 特朗普在美国国务院举行的活动上表示...",
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9961069.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T05:25+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -502,7 +579,7 @@
       "title": "美国制裁伊朗加密货币交易所 谈判仍在继续",
       "summary": "美国对伊朗加大经济施压，对数字资产交易所以及与伊朗影子银行体系有关的网络实施更多制裁，在有关战争的谈判继续进行之际增加筹码。",
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6732646.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T05:24+08:00",
       "sector": "金融",
       "sentiment": "negative",
@@ -513,7 +590,7 @@
       "title": "美日联手干预见效 对冲基金大幅削减日元空仓",
       "summary": "美国和日本当局协同出手稳定了日元后，对冲基金大幅减少了做空押注。 商品期货交易委员会周五公布的数据显示，截至8月4日，期货和期权市场的杠杆基金将日元净空头头寸削减...",
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz4448529.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T05:23+08:00",
       "sector": "金融",
       "sentiment": "neutral",
@@ -524,7 +601,7 @@
       "title": "8月8日美股成交额前20：SpaceX将自建发电厂保障电力供应",
       "summary": "周五美股成交额第1名SpaceX收高15.83%，成交300.16亿美元。据报道，SpaceX计划建设自己的发电设施，为其与特斯拉在美国得州共同开发的大型半导体制造工厂提供电力支持。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpwwc6715478.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T04:47+08:00",
       "sector": "半导体/芯片",
       "sentiment": "neutral",
@@ -535,7 +612,7 @@
       "title": "报道：一旦阿曼与伊朗的协议宣布 美国就将解除对伊朗港口的海上封锁",
       "summary": "路透社援引一位美国官员的话报道，一旦阿曼与伊朗恢复商业航运的协议宣布，美国就将解除对伊朗港口的海上封锁。 援引这位官员报道称...",
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvx2823806.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T04:37+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -546,7 +623,7 @@
       "title": "特朗普提名的Brett Matsumoto获参议院确认 将出任美国劳工统计局局长",
       "summary": "美国参议院确认Brett Matsumoto出任美国劳工统计局局长。特朗普去年突然解雇前任局长后，这一关键职位如今终于得到填补。",
       "url": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz4427219.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-08T04:37+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -826,17 +903,6 @@
       "sector": "国际市场",
       "sentiment": "negative",
       "importance": "normal"
-    },
-    {
-      "id": "f394d654e357",
-      "title": "报道：白宫致信美联储理事库克通知她特朗普考虑将其解职",
-      "summary": "美国广播公司新闻台援引不具名消息源报道称，总统唐纳德·特朗普在推进解雇美联储理事丽莎·库克的努力。 报道称，白宫本周已致信库克，告知她特朗普正考虑将其解职。",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpnfx3017904.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-08T01:10+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "important"
     },
     {
       "id": "3e2bd762a84d",
