@@ -1,7 +1,62 @@
 {
-  "last_updated": "2026-08-09 16:31 北京时间",
+  "last_updated": "2026-08-09 17:30 北京时间",
   "total": 89,
   "items": [
+    {
+      "id": "dd652c002677",
+      "title": "国际金价单周暴涨7%，重返4400美元后结构性博弈加剧",
+      "summary": "受美国非农就业数据意外爆冷及中东局势缓和预期上升双重因素推动，国际金价单周暴涨逾7%，COMEX黄金期货重返4400美元关口。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimtiqp5530940.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T17:17+08:00",
+      "sector": "有色/资源",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "62de2af8b1bb",
+      "title": "药明康德，重大利好",
+      "summary": "来源：中国基金报 【导读】药明康德的重大利好 中国基金报记者 泰勒 大家好，关注一下药明康德的重大利好消息，压在中国创新药头上的达克里斯之剑断裂了！",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtiqp5521347.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:54+08:00",
+      "sector": "医药/生物",
+      "sentiment": "positive",
+      "importance": "breaking"
+    },
+    {
+      "id": "bac89e5566c6",
+      "title": "阿拉格齐称在谅解备忘录持续遭美方违反时无法与美国谈判",
+      "summary": "外交部长阿巴斯·阿拉格齐的话表示：“只要美国继续违反谅解备忘录，并且不对其违约行为作出补救，谈判就不可能恢复。” “一些中间国家正试图重新奠定谈判基础” “目前...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5648611.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:51+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "0e742e9bd00d",
+      "title": "十大机构看后市：业绩期是主线行情演绎的关键变奏点，短期内市场或继续反弹，关注三条业绩主线",
+      "summary": "本周三大指数集体上涨，上证指数涨2.81%，深证成指涨5.39%，创业板指涨6.55%。后市将如何发展？看看机构怎么说。 中信建投：W型底部确立 反弹还能持续多久？",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtiqm3360546.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:44+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "d8e461f356a0",
+      "title": "国信策略：再议科技M顶 科技第二波何时来？",
+      "summary": "来源：国信证券 我们在前期报告中分析过，A股高景气行业股价顶部往往呈现“M顶”形态，这一次科技行情或也不例外。6月下旬以来电子、通信等AI科技板块大幅调整...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-09/doc-inimtchr5639219.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:30+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "5fd265901e53",
       "title": "摩尔线程：2026上半年营收17.36亿元，同比增长147.42%",
@@ -11,6 +66,17 @@
       "pub_time": "2026-08-09T16:28+08:00",
       "sector": "AI/科技",
       "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "c8cd305781b5",
+      "title": "今年“最贵”新股，中签率出炉",
+      "summary": "来源：财联社 发行价高过宇树科技，今年“最贵”新股频准激光今日公布网上发行申购情况及中签率。 根据上交所提供的数据，本次网上发行有效申购户数为8109616户...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtchr5642638.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:18+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -80,9 +146,20 @@
       "importance": "normal"
     },
     {
+      "id": "b93b327a5761",
+      "title": "回购公告集中披露，一波明星基金经理最新调仓显现",
+      "summary": "来源：财联社 借上市公司回购相关公告集中披露，公募基金7月以来的最新调仓逐步浮现。 7月科技赛道重挫，易方达杨宗昌执掌的两只产品包揽全市场唯二“翻倍基”...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimtchp3462277.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:04+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
       "id": "ecc9cff3b633",
       "title": "申万宏源：还需等待悲观持仓出清",
-      "summary": "来源：上海申银万国证券研究所有限公司 一、重申AI 产业链重拾强势“四步走”推演：1． 超跌反弹出现，基本面研究有效性恢复。 2． 二次探底，行稳致远正常可能再发力...",
+      "summary": "来源：上海申银万国证券研究所有限公司 一、重申AI 产业链重拾强势“四步走”推演： 1． 超跌反弹出现，基本面研究有效性恢复。2． 二次探底，行稳致远正常可能再发力...",
       "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchp8854723.shtml",
       "source": "新浪财经",
       "pub_time": "2026-08-09T16:03+08:00",
@@ -219,6 +296,39 @@
       "source": "新浪财经",
       "pub_time": "2026-08-09T15:14+08:00",
       "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "bf448a71f152",
+      "title": "百万罚单叠加股东清仓减持，首创证券H股冲刺再添阴影",
+      "summary": "来源：证券之星 近日，中国人民银行北京市分行一纸行政处罚决定书，将首创证券（601136.SH）推至舆论焦点。公司因反洗钱三项违规，领到一张百万级罚单...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtchr5641057.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T15:00+08:00",
+      "sector": "金融",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "3a4dc1057624",
+      "title": "困守炊具市场，爱仕达中报预亏，机器人业务难盈利",
+      "summary": "来源：证券之星 营收规模停滞不前，盈利能力长期承压，是老牌炊具企业爱仕达（002403.SZ）近年来持续面临的难题。2026年半年度业绩预告显示，公司预计净亏损为8700...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtchp8868489.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T15:00+08:00",
+      "sector": "AI/科技",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "60297d5e8d63",
+      "title": "成本承压、汇兑损失拖累，朝阳科技上半年净利降超85%",
+      "summary": "来源：证券之星 8月2日晚间，电声ODM厂商朝阳科技（002981.SZ）披露2026年半年度报告。财报数据显示，上半年公司实现营业总收入8.04亿元，同比下滑8.03%；归母净利润741...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtchr5640529.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T15:00+08:00",
+      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -447,7 +557,7 @@
       "title": "美国威瑞森突发大面积通信服务中断 数千用户受影响",
       "summary": "8日下午，威瑞森（Verizon）突发大面积通信服务中断，导致全美数千名用户的通信功能陷入瘫痪，纽约、洛杉矶及波士顿等主要大都会区受影响最为严重。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3536543.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-09T14:13+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -458,7 +568,7 @@
       "title": "视频|俞敏洪：如果我不是创始人的话，我也早跑出去了",
       "summary": "",
       "url": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimswyr8935303.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-09T14:13+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -469,87 +579,21 @@
       "title": "美国Jewel-Osco因沙门氏菌污染风险紧急召回两款莎莎酱产品",
       "summary": "美国零售商Jewel-Osco宣布紧急召回两款鲜食莎莎酱（Salsa）产品。该批产品所用原料存在受沙门氏菌污染的潜在风险。 Jewel-Osco方面指出...",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3535713.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-09T14:12+08:00",
       "sector": "消费",
       "sentiment": "negative",
       "importance": "breaking"
     },
     {
-      "id": "accac5d949bd",
-      "title": "楼继伟参加研讨会，谈盘活国有存量资产",
-      "summary": "本文来源：全球财富管理论坛 8月8日上午，全球财富管理论坛在京召开“地方国有存量资产盘活进展、难点与策略”课题研讨会，楼继伟理事长出席会议并做总结发言。",
-      "url": "https://finance.sina.com.cn/stock/estate/2026-08-09/doc-inimtchp8814401.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T14:05+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "49b487dc4e53",
-      "title": "广发证券：如何理解7月非农数据及其影响",
-      "summary": "来源：广发证券 摘要 第一，根据美国劳工部8月7日公布的数据，7月新增非农就业-2.3万人（预期约+8.0万），为数月来首次转负；前值大幅下修，5-6月合计净下修10.3万。",
-      "url": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimswyt5708265.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T14:04+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "78317df78ecb",
       "title": "韩国折扣店二季度零售指数录得2010年以来最大同比下滑",
       "summary": "周日公布的官方数据显示，韩国大型折扣店二季度零售销售指数创下史上最大同比跌幅，部分原因是正在走企业重整程序的Homeplus大量门店关闭、停业。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8925707.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-09T13:50+08:00",
       "sector": "消费",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "b614a824d0e7",
-      "title": "宇树科技明日打新，注意四大事项",
-      "summary": "来源：财联社 距离宇树科技网上申购仅剩3个交易日。8月6日，宇树科技披露发行公告，确定本次发行数量为4044.64万股，发行价150.80元/股，募资总额60.99亿元...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimswyr8925964.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:48+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "4998c2b443f5",
-      "title": "伊朗总统被曝与最高领袖在昏暗汽车内会面，几分钟里只能靠声音交谈难辨真假",
-      "summary": "来源：极目新闻 伊朗总统被曝与伊朗最高领袖在昏暗汽车内会面，看不清对方样子，只能通过声音交谈难辨真假，此前以媒称穆杰塔巴正处于极度危急状态随时会死...",
-      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchm1821574.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:42+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c2c0409d09a6",
-      "title": "溢价45%，周末刷屏！A股存储巨头301308，完成37亿元定增：现价386.6元，定增价560元",
-      "summary": "高位定增，投资者“炸锅”了！ 8月7日晚间，国产存储模组龙头江波龙（301308）披露定增发行报告书称，公司完成向特定对象发行股票，实际发行660.71万股...",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimswyr8922881.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:40+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "19b7a9f6d814",
-      "title": "明天，打新宇树！受益影子股名单来了",
-      "summary": "8月10日，宇树科技将在科创板开启申购。根据此前公告，宇树科技发行价格为150.80元/股，中一签（500股）需缴款7.54万元，证券代码/网下申购代码688836...",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimswyr8918137.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:31+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -824,50 +868,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-09T10:15+08:00",
       "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "1dd38bed5760",
-      "title": "香港科技探索：香港电子商贸业务7月平均每日订单总商品交易额2450万港元 按年上升12.4%",
-      "summary": "香港科技探索（01137）发布公告，于2026年7月，本集团继续于HKTVmall推行“全年折扣活动”，于周末期间在超级市场、个人护理、宠物食品...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1948238.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:14+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "e9b43fd3cfd4",
-      "title": "世茂集团前7个月累计合约销售总额约为90.10亿元",
-      "summary": "世茂集团（00813）发布公告，截至2026年7月31日止7个月，本集团的累计合约销售总额约为人民币90.10亿元，本集团的累计合约销售总面积为73.32万平方米。",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1945945.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:09+08:00",
-      "sector": "宏观/政策",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "35bc45db7daf",
-      "title": "7月份CPI出炉！国家统计局：黄金饰品价格同比上涨24.6%，蛋类同比上涨14.4％，猪肉价格同比下降13.3％",
-      "summary": "8月9日，国家统计局公布最新CPI数据。 2026年7月份，全国居民消费价格同比上涨0.5%。其中，城市上涨0.5%，农村上涨0.4%；食品价格下降1.5%，非食品价格上涨0...",
-      "url": "https://finance.sina.com.cn/china/2026-08-09/doc-inimsssv5747681.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:08+08:00",
-      "sector": "消费",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "8a9b4a4f47cc",
-      "title": "大唐发电完成发行25亿元科技创新可续期公司债券",
-      "summary": "大唐发电（00991）发布公告，大唐国际发电股份有限公司（“公司”）面向专业投资者公开发行面值不超过人民币 300 亿元的公司债券已经上海证券交易所审核同意...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3548905.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:08+08:00",
-      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
