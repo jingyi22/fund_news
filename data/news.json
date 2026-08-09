@@ -1,7 +1,106 @@
 {
-  "last_updated": "2026-08-09 15:45 北京时间",
-  "total": 92,
+  "last_updated": "2026-08-09 16:31 北京时间",
+  "total": 89,
   "items": [
+    {
+      "id": "5fd265901e53",
+      "title": "摩尔线程：2026上半年营收17.36亿元，同比增长147.42%",
+      "summary": "新浪科技讯 8月9日下午消息，摩尔线程发布2026年半年度报告。根据报告，2026年上半年，摩尔线程实现营收17.36亿元，同比增长147.42%，已超2025年全年营收；毛利总额达9...",
+      "url": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimtchp3473249.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:28+08:00",
+      "sector": "AI/科技",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "50263927a09a",
+      "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
+      "summary": "新浪科技讯 8月9日下午消息，针对删除《在 Mac 上配合Apple智能使用千问》使用文档一事，苹果客服最新回应新浪科技称：“我们有功能或新项目发布时，都会提前收到通知...",
+      "url": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimtchr5630368.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:12+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "56e334c43168",
+      "title": "摩尔线程：2026上半年营收17.36亿元，已超2025全年",
+      "summary": "8月9日，国产GPU龙头摩尔线程（688795.SH）发布《2026年半年度报告》。2026年上半年，公司实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9...",
+      "url": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimtchp3465077.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:11+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "eb64d06d7fa8",
+      "title": "一个网红IPO崩了",
+      "summary": "作者/冯雨晨 报道/投资界PEdaily 你爱喝的网红椰子水，坠入至暗时刻。 记得去年6月，if椰子水背后公司IFBH成功登陆港股，市值一度超130亿港元...",
+      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchm1865352.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:10+08:00",
+      "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "4b394617ec8d",
+      "title": "周末影响市场重要资讯回顾：北京购房政策调整，宇树科技明日申购，美国非农就业数据转负",
+      "summary": "本周末影响市场的重要资讯有：我国7月CPI同比上涨0.5%；央行连续第21个月增持黄金；美国非农就业数据转负，美联储加息动力骤减；特朗普宣布将向关键矿产和电池项目投资30亿...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtchp8864846.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:09+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "3edab717116e",
+      "title": "下周影响市场重要资讯前瞻：成品油迎来调价窗口，长鑫科技将纳入重要指数，宇树科技、绿控传动，明天打新！",
+      "summary": "7月金融数据将公布，成品油迎来调价窗口，长鑫科技将被纳入重要指数，宇树科技、绿控传动，明天打新！ 【重磅新闻】  7月金融数据将公布 7月新增贷款、M2...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtchm1859726.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:08+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "73c06d1ca864",
+      "title": "摩尔线程上半年营收增长超147%，已超2025年全年",
+      "summary": "8月9日，摩尔线程（688795.SH）发布2026年半年度报告。报告显示： 2026年上半年，摩尔线程实现营业收入17.36亿元，同比增长147.42%...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-09/doc-inimtchm1860397.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:05+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "ecc9cff3b633",
+      "title": "申万宏源：还需等待悲观持仓出清",
+      "summary": "来源：上海申银万国证券研究所有限公司 一、重申AI 产业链重拾强势“四步走”推演：1． 超跌反弹出现，基本面研究有效性恢复。 2． 二次探底，行稳致远正常可能再发力...",
+      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchp8854723.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:03+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "95b6c9467b41",
+      "title": "视频|内部控制存在缺陷，瑞达期货被责令改正!总经理葛昶遭警示",
+      "summary": "",
+      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchp8853757.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T16:02+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "ea1307d7d127",
       "title": "视频|东鹏饮料陷价格战，港股基石解禁，腾讯浮亏超亿元",
@@ -44,6 +143,17 @@
       "pub_time": "2026-08-09T15:38+08:00",
       "sector": "金融",
       "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "30b7bad96aa6",
+      "title": "视频|梁家辉泪洒现场 ：北上不是选择，是回归（完整视频+全文）",
+      "summary": "来源：财经会议圈 编辑：米奇 来源：财经会议圈 2026 年 8 月 8 日，北京 798 艺术区。第 38 届大众电影百花奖回到它的始发地北京，在系列活动的北京电影论坛上...",
+      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchp8850610.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-09T15:36+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -443,116 +553,6 @@
       "importance": "normal"
     },
     {
-      "id": "c46f1dea62d7",
-      "title": "掏空上市公司？欧菲光实控人被投资者举报",
-      "summary": "来源：钡六 8月7日消息，一则关于光学巨头欧菲光（002456）的投资者举报，将公司及其实际控制人蔡荣军推上风口浪尖。 据《消费日报》报道...",
-      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchm1840877.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:27+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "800750536cd2",
-      "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
-      "summary": "【导读】范达高级产品经理John Patrick Lee：美国机构投资者开始布局中国半导体，最早或于9月底将长鑫科技纳入范达旗下ETF",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimswyp1909022.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:20+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "fcb13831a69d",
-      "title": "吴声年度演讲：6大预测",
-      "summary": "来 源：吴声造物 8月8日，第十届立秋演讲“新物种爆炸·吴声商业方法发布2026”在香港会议展览中心举行，今年的主题是“我将宇宙随身携带”。",
-      "url": "https://finance.sina.com.cn/stock/2026-08-09/doc-inimtchp3431275.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T13:09+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c82197acabc4",
-      "title": "五粮液再次把自己顶上杠头：3个月才增持1.993亿，未来92天要买28.01亿到48.01亿！不买就算“违反承诺”",
-      "summary": "来源：国际投行研究报告 五粮液公告了已增持的数据。 一、当前已增持金额 截至 2026 年 8 月 7 日公告日：累计增持金额：1.9943 亿元对应股份 241.13 万股...",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-09/doc-inimswyr3505890.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:56+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d7932d150e3e",
-      "title": "雷声大雨点小！五粮液再次把自己顶上杠头：3 个月才增持1.993 亿，未来92天要买28.01亿到48.01亿！",
-      "summary": "来源 国际投行研究报告 五粮液公告了已增持的数据。 一、当前已增持金额 截至 2026 年 8 月 7 日公告日：累计增持金额：1.9943 亿元对应股份 241.13 万股...",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimswyt5715095.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:56+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d3b001c1f85c",
-      "title": "国融基金总经理变更！二度引入职业经理人",
-      "summary": "原标题：这家金融机构，总经理变更！二度引入职业经理人 公募引入职业经理人并非新鲜事，但同一家公募“二度引入”却属罕见。 根据国融基金8月8日公告...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimswyt5685382.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:56+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "6c8ab53807bf",
-      "title": "港股大模型大涨，热门龙头获南向资金净买入近50亿港元！3股最新持股量翻倍（附名单）",
-      "summary": "本周南向资金净买入近100亿港元。 南向资金净买入 MINIMAX-W近50亿港元 本周（8月3日至8月7日）港股市场主要股指涨跌不一，恒生指数累计跌0.84%，恒生科技指数涨0.6%...",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-09/doc-inimswyr8902951.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:50+08:00",
-      "sector": "AI/科技",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "15f2f8e4f90e",
-      "title": "传ALO将独家入驻天猫，天猫官方暂无回应",
-      "summary": "8月9日，有媒体消息称，高端运动生活方式品牌ALO将独家入驻天猫，于8月12日开出中国内地首家官方旗舰店。这将是ALO进入中国市场后正式开业售卖的第一家官方店铺...",
-      "url": "https://finance.sina.com.cn/chanjing/2026-08-09/doc-inimswyr3486315.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:28+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "8024a0735252",
-      "title": "徐新：王兴出差坐经济舱、机场排队喝水、住如家还是两个人一个房间的，“美团和京东都挺节俭的”",
-      "summary": "",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-09/doc-inimswyp1882043.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:26+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "a0263d152b4a",
-      "title": "视频|长春高新跌落千亿市值神坛，子公司金赛药业净利蒸发40亿元，五折股票激励绑定256人",
-      "summary": "",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-09/doc-inimswyt5662702.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-09T12:24+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "d8563fe26504",
       "title": "税收征管新阶段",
       "summary": "税收征管正在进入新的阶段。多位受访者提及这一阶段并非短期现象，而是税收征管走向法治化、成熟化的必然趋势。因此，涉税主体需要进一步规范涉税行为...",
@@ -867,39 +867,6 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3548905.shtml",
       "source": "新浪A股",
       "pub_time": "2026-08-09T10:08+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "b7f355894175",
-      "title": "亚洲先锋娱乐发盈喜 预计中期溢利及全面收益总额大幅增加至约220万至240万港元",
-      "summary": "亚洲先锋娱乐（08400）发布公告，本集团预期于截至2026年6月30日止六个月（本期间）录得收入约3400万港元，相较于截至2025年6月30日止六个月（相应期间）的收入约2300万港...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5736227.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:07+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "df5e52a1a478",
-      "title": "君圣泰医药-B完成配售9871万股新股",
-      "summary": "君圣泰医药-B（02511）公布，2026年8月7日完成配售9871万股新股，每股配售价2.28港元。",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1943204.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:04+08:00",
-      "sector": "医药/生物",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "045ad0cfebda",
-      "title": "富通科技因购股期权获行使而发行合计10.8万股",
-      "summary": "富通科技（00465）发布公告，2026年8月7日，根据2019年5月16日采纳的购股期权计划行使购股期权而发行的普通股股份7.4万股；及根据2009年11月11日采纳的购股期权计划行使购...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3546415.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-09T10:04+08:00",
       "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
