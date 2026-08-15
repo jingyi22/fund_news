@@ -1,7 +1,106 @@
 {
-  "last_updated": "2026-08-15 13:17 北京时间",
-  "total": 88,
+  "last_updated": "2026-08-15 14:21 北京时间",
+  "total": 85,
   "items": [
+    {
+      "id": "93d7c2a725f0",
+      "title": "澳大利亚出现万事达卡支付遭拒情况",
+      "summary": "澳大利亚联邦银行称，受万事达卡全球性故障影响，澳大利亚用户的万事达卡支付出现交易被拒情况。 用户可上报服务故障的网站Downdetector在周六下午3点收到超过1700条关于万...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwq1854272.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T14:13+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "352972941236",
+      "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+      "summary": "据该公司首席执行官透露，旧金山一家机器人初创企业已经开始提供由人形机器人完成的家庭保洁服务。 Tau Robotics首席执行官、联合创始人亚历克斯·科赫表示：“没错...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T14:09+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "60d6cc524c66",
+      "title": "联想集团刘军：AI PC国内市场销量占比过半",
+      "summary": "人民财讯8月15日电，联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1966380.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:28+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "58bc300ed378",
+      "title": "海南航空致歉",
+      "summary": "8月15日，海南航空官方微博发文称，2026年8月15日，我司HU753（北京-曼彻斯特）航班因机械故障原因备降俄罗斯克拉斯诺亚尔斯克国际机场...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqr2297860.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:21+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "c8ce6b9e08de",
+      "title": "英伟达CPO交换机全面量产：能效提升5倍，供应商包括天孚通信",
+      "summary": "8月14日，英伟达NVIDIA AI Infrastructure官方X账号宣布，Spectrum-X以太网硅光交换机（Ethernet Photonics）现已全面量产，为AI工厂提供下一代Scale-Out（横向扩展）网络...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1962999.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:19+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "40a14556858f",
+      "title": "金价一个月狂飙超10%！黄金突破4400美元后，华尔街却吵翻了：2%还是20%？",
+      "summary": "来源：FX168全球投资 周五（8月14日），黄金价格继续守在4400美元/盎司上方。美国本周公布的一系列经济数据释放出通胀与需求降温信号...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkmqs1963206.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:12+08:00",
+      "sector": "有色/资源",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "e6661c094a5d",
+      "title": "能繁母猪逼近政策红线，猪周期何时迎来反转？",
+      "summary": "全国猪价8连涨，能繁母猪逼近政策红线，周期拐点渐行渐近。 8月15日，全国外三元均价约10.82元/公斤，实现8日连涨。 另据期货日报报道，进入8月...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkmqs1962260.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:12+08:00",
+      "sector": "宏观/政策",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "2de0312965b7",
+      "title": "中际旭创等AH股价格倒挂 国际资本重新定价硬科技核心资产",
+      "summary": "伴随着国际资本持续“买买买”，越来越多硬科技次新股 出现AH价格倒挂。 截至8月13日，共有7家公司H股较A股出现溢价，分别为宁德时代 、澜起科技 、招商银行 、兆易创新 ...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1961968.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:12+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "34a6dd8c27c9",
+      "title": "“光”指数，8月已反弹超30％！多股提示风险",
+      "summary": "“光”指数，8月已反弹超30%！多股提示风险 8月14日，A股光通信概念股集体上涨。 万得光通信概念指数大涨4.17%，长盈通涨近15%，共进股份、杭电股份、亨通光电...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1960197.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:08+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "26b7f21270b4",
       "title": "资管机构角逐德国规模达5000亿欧元养老金历史性转型",
@@ -45,6 +144,17 @@
       "sector": "宏观/政策",
       "sentiment": "neutral",
       "importance": "breaking"
+    },
+    {
+      "id": "839790889622",
+      "title": "悦刻母公司雾芯科技季报图解：营收26亿 经调整净利2.4亿 同比降18%",
+      "summary": "来源：雷递 雷递网 雷建平 8月15日 电子烟悦刻母公司雾芯科技（NYSE：RLX）昨日发布截至2026年6月30日未经审计第二季度及上半年的财务业绩。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1963162.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:44+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
     },
     {
       "id": "b49a7c51386e",
@@ -109,6 +219,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-15T12:18+08:00",
       "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "4c3b8d374aca",
+      "title": "北京飞曼彻斯特航班发生机械故障备降俄罗斯，海南航空致歉",
+      "summary": "8月15日，海南航空官方微博发文称，2026年8月15日，我司HU753（北京-曼彻斯特）航班因机械故障原因备降俄罗斯克拉斯诺亚尔斯克国际机场...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqt8710446.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:16+08:00",
+      "sector": "商业航天/军工",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -399,6 +520,17 @@
       "importance": "normal"
     },
     {
+      "id": "a6d610d20b54",
+      "title": "马斯克“安利”中国游！今年外国人最爱逛哪里？",
+      "summary": "国家移民管理局数据显示 今年上半年 入境外国人达2291.4万人次 同比增长20.4% 他们最爱去哪些城市？ 这些城市藏着哪些让人走不动道的宝藏？",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkfhu2019024.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T10:22+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
       "id": "910a3954648e",
       "title": "国产品牌涌入，手术机器人厂商如何摆脱单纯卷价格",
       "summary": "随着更多厂商涌入，价格竞争在升温。 2009年，陈必良在中国香港一家医院培训时首次接触到机器人，当时只能观摩、拍照留念，怀抱新奇与向往。",
@@ -421,79 +553,13 @@
       "importance": "normal"
     },
     {
-      "id": "83c61edbf8b1",
-      "title": "印尼附近海域发生7.7级地震，中国使馆提醒谨防余震",
-      "summary": "经中国地震台网正式测定，8月15日5时58分在印尼弗洛勒斯岛附近海域（南纬8.40度，东经121.40度）发生7.7级地震，震源深度20千米。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhu2009385.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T10:05+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "faed8053a94d",
-      "title": "黄金ETF持续“吸金” 黄金配置逻辑受机构关注",
-      "summary": "近日，资金布局黄金ETF的热度延续，7月以来境内市场黄金ETF累计净流入超120亿元。业内人士表示，短期黄金或面临高位波动，但全球货币政策变化...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhu2013224.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:59+08:00",
-      "sector": "有色/资源",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "468bca425795",
-      "title": "中一签或赚20万、市值610亿元 宇树科技IPO引爆资本狂欢",
-      "summary": "创新本身就是一种试错的过程，尝试路径多了，最终才能找到真正有效的方向。宇树科技上市将形成示范效应，同时随着科创板上市标准调整...",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-15/doc-ininkfhq3598596.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:52+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "cd221c9a52a2",
-      "title": "2026年高考专业“弃选榜”：会计学居首，人工智能也“遇冷”？",
-      "summary": "来源：财经杂志 “弃选名单”折射的并非某个专业的整体势微，而是高校人才培养与产业需求之间的结构性错配 文|《财经》记者 鲁伟 编辑 | 朱弢 2026年高考本科录取渐入尾声...",
-      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkfhv8784309.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:51+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "92ed114bcc1f",
-      "title": "A股一周熊股出炉：最熊股跌超24%，金一文化、洛阳钼业上榜",
-      "summary": "来源：@21世纪经济报道微博 【#A股一周熊股出炉#：最熊股跌超24%，金一文化、洛阳钼业上榜】本周，A股三大指数震荡分化，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1...",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-15/doc-ininkfhu2002218.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:38+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "f0e88cd1f204",
-      "title": "从“玄学”到算法 新一代中医AI、具身推拿机器人来了",
-      "summary": "来源：中国经营报 中经记者 索寒雪 北京报道 “要相信老祖宗的智慧，中医大模型还是很靠谱的。”中国医院协会副秘书长刘福东近日向《中国经营报》记者表示...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhv8772427.shtml",
-      "source": "新浪财经",
+      "id": "a8f97dc565cf",
+      "title": "中国AI“很忙”：9个模型一年服务1500万患者 多国采购数百台眼科设备",
+      "summary": "来源：中国经营报 中经记者 索寒雪 北京报道 近日，《中国经营报》记者在中国国际服务贸易交易会（以下简称“服贸会”）健康卫生服务专题媒体通气会上了解到...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfht2316267.shtml",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T09:30+08:00",
       "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "681df74f139c",
-      "title": "伯克希尔开始“花钱” “扫货清单”出炉：谷歌升至第三大持仓",
-      "summary": "伯克希尔开始“花钱”，究竟买了啥？ 当地时间8月14日，伯克希尔·哈撒韦向美国证券交易委员会（SEC）提交2026年第二季度美股持仓报告（13F）...",
-      "url": "https://finance.sina.com.cn/money/fund/jjcc/2026-08-15/doc-ininkfhq3579810.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:27+08:00",
-      "sector": "金融",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -502,21 +568,10 @@
       "title": "软银集团减持台积电72%股份 交易所申报文件披露",
       "summary": "周五提交至美国证券交易委员会的申报文件显示，软银集团将其持有的台湾积体电路制造股份有限公司（台积电）股份减持了72%。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininiyyw2117645.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T09:22+08:00",
       "sector": "金融",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "e612c02bcb74",
-      "title": "红利涨了，红利基金却跟着科技跌，40只基金疑似漂移",
-      "summary": "来源：财联社 财联社8月15日讯（记者 吴雨其）基金名字和实际持仓差得太远，一直是基民吐槽的话题。 近日一则处罚公告也指向“风格漂移”...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhq3576421.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:19+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -524,20 +579,9 @@
       "title": "飞天精品茅台双双回调 五粮液1618高位休整",
       "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，8月15日中国白酒业11大单品四涨六跌一平，输家占据上风。上涨方面，五粮液普五八代上涨3元至808元...",
       "url": "https://finance.sina.com.cn/chanjing/jync/2026-08-15/doc-ininiyyw2110618.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T09:06+08:00",
       "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d259c0b740c3",
-      "title": "本周机构扎堆调研 A股六家公司接待超百家机构",
-      "summary": "人民财讯8月15日电，本周（8月10日—8月14日）A股共有72家上市公司接待机构投资者调研。从赚钱效应来看，超四成机构调研公司周内实现正收益，炬光科技以22...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyys3695293.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T09:01+08:00",
-      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -780,83 +824,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-15T05:57+08:00",
       "sector": "宏观/政策",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "84dee7f4a5eb",
-      "title": "Anthropic第二财季营收超过115亿美元 较上年同期飙升至少13倍",
-      "summary": "Anthropic PBC向潜在投资者表示，其第二季度营收较上年同期增长至少13倍。 文件显示，这家Claude聊天机器人开发商最近一个完整季度的初步营收超过115亿美元...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2471568.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T05:36+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "9ef422185067",
-      "title": "厚植绿色底色！一组数据解锁中国生态新图景",
-      "summary": "今天是全国生态日 近期多部门发布最新生态数据 生动映照了我国生态环境持续向好 天更蓝、水更清、山更绿 中国式现代化的绿色底色正越擦越亮...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiusx2470454.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T05:30+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c35d6d77c01e",
-      "title": "美国股市：标普500指数从纪录高位回落 美国消费出现降温迹象",
-      "summary": "标普500指数从纪录高位回落，美国经济的主要引擎显现降温迹象，盖过市场预计美联储9月将按兵不动的乐观情绪。 消费者信心和零售销售下滑虽然缓解了市场对美联储即将加息的...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3740746.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T05:22+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c57c7c389d30",
-      "title": "伯克希尔披露Q2持仓：Alphabet跻身前三，增持达美航空和住宅建筑商",
-      "summary": "伯克希尔哈撒韦在第二季度大幅增持了Alphabet的股份，使这家谷歌母公司跻身其三大股票持仓之列。此外还增持了达美航空和多家住宅建筑商的投资。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2162597.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T05:21+08:00",
-      "sector": "商业航天/军工",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "1457ab8415f7",
-      "title": "8月15日热门中概股多数上涨，阿里巴巴涨1.35%，慧荣科技涨7.94%",
-      "summary": "8月15日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.61%。 上涨个股（按市值从高到低）：阿里巴巴涨1.35%，拼多多涨0.74%，网易涨2.01%，中华电信涨0.71%...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2465628.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T05:11+08:00",
-      "sector": "AI/科技",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "6e22dfd0be0f",
-      "title": "英伟达披露持有210亿美元的SpaceX股份",
-      "summary": "根据申报文件，英伟达披露持有价值209.7亿美元的SpaceX股份。 英伟达还披露持有价值约300亿美元的英特尔股份。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2461874.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:58+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "89300564e786",
-      "title": "哈佛披露持有价值22亿美元的SpaceX股份",
-      "summary": "哈佛在13F申报文件中披露，持有价值22.1亿美元的SpaceX股份。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3733916.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:57+08:00",
-      "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
     },
