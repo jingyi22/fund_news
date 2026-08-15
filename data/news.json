@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-08-15 11:31 北京时间",
-  "total": 94,
+  "last_updated": "2026-08-15 12:21 北京时间",
+  "total": 92,
   "items": [
+    {
+      "id": "7b238bb7a63e",
+      "title": "美军航母遭遇的困境 与战争初期巴林基地遇袭息息相关",
+      "summary": "“亚伯拉罕·林肯”号航空母舰物资供给难题，在战争爆发首日之后便接踵而至，当时伊朗导弹与攻击无人机袭击了巴林境内的一处美国海军基地。",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqr2261700.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:16+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "88a5c1e57b0d",
+      "title": "特朗普的各项要求拖累美国海军推进工作",
+      "summary": "本月，特朗普对海军提出的一系列要求全面落地，本就承受巨大财政与后勤压力的美国海军，实力或将遭到削弱。 “亚伯拉罕·林肯”号航空母舰正在海外部署...",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqs1930689.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:04+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "af41a32ead54",
+      "title": "基民傻眼了！说好的医药行情，结果机构越涨越卖，火爆的医药、医疗ETF近期被抛售约30亿元",
+      "summary": "每经记者|叶峰每经编辑|赵云 本周股指涨跌互现，沪深两市股票型ETF和跨境型ETF合计净流出596.54亿元。 行业主题上看，半导体设备、证券相关ETF被资金看好，而医疗...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1928969.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:58+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "46f1ffe59b08",
+      "title": "伊朗首次展示美军机残骸 想传递什么信息？",
+      "summary": "据伊朗塔斯尼姆通讯社报道，伊朗伊斯兰革命卫队公开展出大量美以飞机残骸，其中包括一架F-15战斗机残骸，为首次公开展示。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqn3523688.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:53+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "3a262ab72fd6",
+      "title": "“旺旺最大的对手竟是糖”，登热搜第一",
+      "summary": "8月15日，“旺旺最大的对手竟是糖”“网友集体呼吁旺旺减糖”“旺旺集团面临重大经营危机”等相关话题登上微博热搜。 据极目新闻报道，2026年8月初...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqs1921847.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:43+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "ea5ef092a349",
+      "title": "A股“小巨人”军团突破1600家，意味着什么？",
+      "summary": "本报记者 孟 珂 近年来，专精特新企业梯度培育体系不断完善，为优质的创新型中小企业营造了良好的融资环境。Wind数据显示，截至8月14日，年内登陆A股的上市公司中...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqt8692102.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:39+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "98735751b3cb",
+      "title": "世界杯后西甲联赛烽烟再起，新赛季有何看点？",
+      "summary": "8月16日，新赛季西甲联赛将正式揭幕。西甲联盟在上海举办新赛季启幕交流会，介绍了新赛季的主要看点。 作为今年世界杯的冠军球队，西班牙队风光无限。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2372002.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:34+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "987679f3de42",
       "title": "酒吧人员穿近似海航空乘制服商演，海南航空：已投诉并发律师函",
@@ -36,6 +113,17 @@
       "importance": "normal"
     },
     {
+      "id": "a0e6267ede25",
+      "title": "别只盯着宇树！具身智能赛道的业绩王者“出炉”",
+      "summary": "宇树科技上市催化具身智能热度，上游核心零部件率先兑现业绩红利。 随着具身智能赛道热度持续升温，宇树科技的IPO进程成为资本市场关注的焦点。",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-15/doc-ininkfhq3630431.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:09+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
       "id": "45bc502e41c5",
       "title": "保时捷计划2030年前停产Taycan",
       "summary": "21世纪经济报道记者 何煦阳 据报道，保时捷计划最迟在2030年前停产纯电动车型Taycan。知情人士消息称，保时捷最初考虑过把Taycan转移到莱比锡工厂生产...",
@@ -54,6 +142,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-15T11:06+08:00",
       "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "a96fb5c55aab",
+      "title": "冯玉臻被查（附简历）",
+      "summary": "来源：中国新闻社 中央纪委国家监委网站8月15日通报，据内蒙古自治区纪委监委消息：内蒙古自治区人大财政经济委员会主任委员冯玉臻涉嫌严重违纪违法...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhq3641859.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:04+08:00",
+      "sector": "宏观/政策",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -89,6 +188,28 @@
       "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
+    },
+    {
+      "id": "0cc91d3f1bb6",
+      "title": "车企集体“逃离”新车发布会：烧掉几千万，订单转化率却越来越差",
+      "summary": "21世纪经济报道记者 何煦阳 车企正在集体“逃离”新车发布会。7月28日，极氪9X五座版用一纸海报直接官宣上市；8月初，理想i8后驱长续航版静默上架...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhv8799383.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T10:47+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "6dd8237961ca",
+      "title": "旺旺董事长发内部信：公司面临“重大经营危机”",
+      "summary": "据《中国经营报》报道，近日，中国旺旺（00151.HK）集团董事长蔡衍明发布了《致全体旺旺人的一封信》。他在信中表示，2026财年第一季度（4—6月）中国旺旺业绩及利润表现未...",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-08-15/doc-ininkfhu2024731.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T10:40+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "breaking"
     },
     {
       "id": "861b5e3db327",
@@ -131,6 +252,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-15T10:05+08:00",
       "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "faed8053a94d",
+      "title": "黄金ETF持续“吸金” 黄金配置逻辑受机构关注",
+      "summary": "近日，资金布局黄金ETF的热度延续，7月以来境内市场黄金ETF累计净流入超120亿元。业内人士表示，短期黄金或面临高位波动，但全球货币政策变化...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhu2013224.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T09:59+08:00",
+      "sector": "有色/资源",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -410,44 +542,11 @@
       "importance": "normal"
     },
     {
-      "id": "14a2796550cf",
-      "title": "贵州茅台交出市场化改革成绩单，“i茅台”营收占比达43.63%，汇金、证金双双退出前10大流通股东",
-      "summary": "每经记者|熊嘉楠每经编辑|叶峰 8月14日晚间，贵州茅台发布了白酒上市公司的第一份半年报，也是公司2026年正式启动市场化改革以来的首份半年成绩单。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2384025.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:46+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "5c2209e62f1c",
-      "title": "视频|中银基金执行总裁离任 二季度债基逆势缩水632亿元",
-      "summary": "",
-      "url": "https://finance.sina.com.cn/money/fund/jjzl/2026-08-15/doc-ininiyyv2382039.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:41+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "39f36733f700",
-      "title": "两家A股公司公告，终止重大资产重组",
-      "summary": "重要新闻提示 中国人民银行8月14日发布的金融数据显示，7月末社会融资规模存量为463.27万亿元，同比增长7.4% 8月14日晚，多家A股上市公司披露半年报业绩或回购方案...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyys3684245.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:37+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "breaking"
-    },
-    {
       "id": "c4ccf7a79d0d",
       "title": "上半年各地财政运行情况如何？31个省区市“晒账本”",
       "summary": "来源：人民日报海外版 原标题：31个省区市“晒账本”—— 上半年地方财政运行平稳（锐财经） 近年来，安徽省安庆市岳西县持续织密农村公路网络，完善山区交通基础设施...",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2382012.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T07:33+08:00",
       "sector": "宏观/政策",
       "sentiment": "neutral",
@@ -458,86 +557,9 @@
       "title": "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
       "summary": "据知情人士透露，英伟达与OpenAI即将达成协议，为俄亥俄州一处大型数据中心园区提供融资，但双方修改了交易架构：英伟达最初仅对数百亿美元建设项目的一半提供担保...",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininiyyw2068780.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T07:33+08:00",
       "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "dba56eac3037",
-      "title": "中央汇金、证金公司退出贵州茅台十大股东名单",
-      "summary": "上半年净赚445亿，茅台市场化动刀半年：i茅台收入涨270%，国内经销商减少266家 贵州茅台上半年净利下滑1.95%，i茅台收入超400亿元贡献四成营收 涉嫌严重违纪违法...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininiyyv2379261.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:31+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c89587e8cb3c",
-      "title": "社保基金、QFII调仓动向曝光！QFII大幅加仓的绩优股出炉",
-      "summary": "机构持股变动，历来是投资者密切关注的市场风向。随着上市公司半年报集中披露，社保基金、QFII等机构的持仓脉络陆续显现。",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-15/doc-ininiyyx8841052.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:30+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "f639fa7d5fd8",
-      "title": "凌晨，全线下跌！特朗普重大警告！美股巨头，3700亿美元债务压顶？",
-      "summary": "8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土” 中东局势持续搅动市场。 昨夜今晨，美股三大指数全线收跌...",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-15/doc-ininiyys3656263.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:29+08:00",
-      "sector": "国际市场",
-      "sentiment": "negative",
-      "importance": "breaking"
-    },
-    {
-      "id": "bd5819a4b17f",
-      "title": "603221、300862，被重点监控！",
-      "summary": "来源：华夏时报 8月14日，据上交所发布，2026年8月10日至2026年8月14日，上交所对98起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对爱丽家居...",
-      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininiyyx8842658.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:28+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "e2e5200b4639",
-      "title": "上半年净赚445亿，茅台市场化动刀半年：i茅台收入涨270%，国内经销商减少266家",
-      "summary": "贵州茅台陷入“增收不增利”局面。图源：贵州茅台官微 8月14日晚间，贵州茅台（600519.SH）公布2026年上半年业绩，期内实现营业收入907.03亿元，同比增长1...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininiyyv2377758.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:27+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "02d1a52608bb",
-      "title": "美伊冲突，最新消息",
-      "summary": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土，“我永远不会道歉，我做了正确的事” 没完没了！中方试射，澳总理跟特朗普“告状”...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyw2068154.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:21+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "8516a56cedc6",
-      "title": "申万宏源总经理黄昊辞任，57岁黄建军接棒",
-      "summary": "申万宏源总经理变更。 8月14日晚间，申万宏源集团股份有限公司（简称“申万宏源”，000166）发布公告称，公司当日收到副董事长、总经理黄昊递交的书面辞呈。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyys3648036.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:18+08:00",
-      "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -879,50 +901,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-15T04:14+08:00",
       "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "9fa66fbc9d0b",
-      "title": "特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压",
-      "summary": "据知情人士透露，特朗普政府对古巴的策略正日益侧重于加大制裁和经济压力，而非动用军事力量来瓦解这个岛国的共产党政权。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2577803.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:13+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "fe0491462c28",
-      "title": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
-      "summary": "（来源：网易科技）最新提交美国证监会（SEC）的文件显示，今年第二季度，华尔街知名成长型对冲基金老虎环球管理公司（Tiger Global...",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqma2277311.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T03:52+08:00",
-      "sector": "AI/科技",
-      "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "fbe196fca01d",
-      "title": "巴勒斯坦谴责以方定居点“民事执法权”移交计划",
-      "summary": "当地时间14日，巴勒斯坦副总统侯赛因·谢赫谴责以色列拟将约旦河西岸犹太人定居点的“民事执法权”从以军移交至以警方，指责这一计划意在巩固以方对巴方被占领土的非法吞并。...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqkw3847223.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T03:31+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "edfadd95a3c4",
-      "title": "特朗普称将在经济上对伊朗实施严厉打击",
-      "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。（央视记者 刘旭）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqkw3842945.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T03:27+08:00",
-      "sector": "国际市场",
       "sentiment": "neutral",
       "importance": "normal"
     },
