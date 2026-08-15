@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-08-15 12:21 北京时间",
-  "total": 92,
+  "last_updated": "2026-08-15 13:17 北京时间",
+  "total": 88,
   "items": [
+    {
+      "id": "26b7f21270b4",
+      "title": "资管机构角逐德国规模达5000亿欧元养老金历史性转型",
+      "summary": "自19世纪末俾斯麦首相创立以来，德国养老金体系规模最大的改革之一即将落地，将为现代基金管理人带来规模庞大的新增可配置资金。",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqt8729053.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T13:03+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "dee9d3414a4c",
+      "title": "今年以来已有52家新三板公司登陆A股",
+      "summary": "（来源：经济日报） 8月12日，珠海市杰理科技股份有限公司（以下简称“杰理科技”）在北交所挂牌上市。资料显示，杰理科技是专注于系统级芯片（SoC）的集成电路设计企业...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqt8727791.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:56+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "333f96b519f7",
+      "title": "印度下调8月下半年运输燃料出口税",
+      "summary": "印度政府一份公告显示，印度下调8月中旬至月底的柴油、汽油以及航空煤油出口关税。 柴油全部消费税由每升25.5卢比下调至24卢比。",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3552915.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:51+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "24a1e7d69e69",
+      "title": "刚刚！持续拉升，空头遭“重锤”！美国经济，生变！又有油轮，遭伊朗袭击！",
+      "summary": "本文源自：期货日报 一起来看下重要资讯！ 加密货币主要币种持续上涨截至发稿，比特币美元指数上涨0.2%，以太坊上涨0.18%，瑞波币上涨0.74%。",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqs1951926.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:50+08:00",
+      "sector": "宏观/政策",
+      "sentiment": "neutral",
+      "importance": "breaking"
+    },
+    {
+      "id": "b49a7c51386e",
+      "title": "于东来凌晨发文回应“胖东来再招20名刑释人员”：第一批刑释人员上岗后没有一个离开",
+      "summary": "8月15日凌晨，胖东来创始人于东来在社交平台发文称：好的环境、好的制度、好的文化。胖东来第一批刑释人员进入岗位以后，没有一个离开...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqt8720843.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:40+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "f4acb1e16039",
+      "title": "「微特稿」疑似受沙门氏菌污染 美国千万枚鸡蛋被召回",
+      "summary": "【新华社微特稿】法新社14日报道说，美国一家企业上月自愿召回疑似受沙门氏菌污染的上千万枚鸡蛋。美国食品和药物管理局本周将此定为“一级召回”...",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3552498.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:39+08:00",
+      "sector": "消费",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "739dd4f747e4",
+      "title": "大疆 Osmo 360 II 开售即爆：4小时登榜、24小时全渠道 TOP1",
+      "summary": "8月13日20：00，大疆正式发布全新 8K 全景相机 Osmo 360 II。根据24小时战报数据，Osmo 360 II 全渠道首日销量位列 TOP1，并在京东、天猫...",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-08-15/doc-ininkmqr2273962.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:38+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "bfb121474df6",
+      "title": "特朗普爆粗口：“没有比这更大的侮辱”",
+      "summary": "来源：参考消息 据美联社8月14日报道，美国国家广场上的二战纪念碑遭到蓄意破坏，喷泉池内布满泡沫，碑体被人用红色油漆喷涂上了文字。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqt8725573.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:31+08:00",
+      "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "96f031cf9ff2",
+      "title": "客单价降至50.5元 ：堂食狂飙、外卖收缩 小菜园上半年营收29亿元",
+      "summary": "每经记者|郑欣蔚每经编辑|魏文艺 8月14日晚间，“中式正餐第一股”小菜园（HK00999，股价7.845港元，市值91.40亿港元）发布2026年上半年业绩报告。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1939888.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:23+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "0ba2c01458d7",
+      "title": "美团：已有20多个城市正评估“红灯停表”相关试点条件",
+      "summary": "新京报讯（记者秦胜南）美团“红灯停表”功能日前在北京试点路测。随后美团在北京举行骑手恳谈会听取骑手以及专业意见。另据美团介绍...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqt8711389.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:18+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "7b238bb7a63e",
       "title": "美军航母遭遇的困境 与战争初期巴林基地遇袭息息相关",
@@ -14,6 +124,17 @@
       "importance": "normal"
     },
     {
+      "id": "43d3a7c54811",
+      "title": "通胀数据降温叠加零售销售骤降，美元承压100关口！日元干预成果腰斩，160关口成生死线",
+      "summary": "来源：汇通 汇通财经APP讯——本周全球汇市在美国经济数据的双重冲击下波动明显。先是通胀指标连续降温，削弱了市场对美联储9月加息的紧迫预期；随后周五（8月14日）公布的7...",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3532044.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:10+08:00",
+      "sector": "消费",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
       "id": "88a5c1e57b0d",
       "title": "特朗普的各项要求拖累美国海军推进工作",
       "summary": "本月，特朗普对海军提出的一系列要求全面落地，本就承受巨大财政与后勤压力的美国海军，实力或将遭到削弱。 “亚伯拉罕·林肯”号航空母舰正在海外部署...",
@@ -21,6 +142,39 @@
       "source": "新浪财经",
       "pub_time": "2026-08-15T12:04+08:00",
       "sector": "商业航天/军工",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "ad18a8589684",
+      "title": "600183，上半年净利润同比增超130%！年内股价已翻倍，中东主权财富基金退出前十大股东",
+      "summary": "每经记者|蔡鼎每经编辑|段炼 杜宇 生益科技（SH600183，股价143.21元，市值3479亿元）8月14日晚间披露2026年半年报。今年上半年，公司实现营收190.26亿元，同比增长50...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqr2257251.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:01+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "1005b2c24345",
+      "title": "北京飞曼彻斯特航班发生机械故障，备降俄罗斯！海南航空道歉：计划更换飞机，将妥善做好旅客服务保障工作",
+      "summary": "突发！北京飞曼彻斯特航班发生机械故障，备降俄罗斯！海南航空道歉：计划更换飞机，将妥善做好旅客服务保障工作 每经编辑|段炼 8月15日...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1932483.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T12:01+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "4309fb107512",
+      "title": "金银油齐涨，美联储加息新信号！",
+      "summary": "（来源：中国商报） 中东局势持续搅动市场。 美股收跌半导体走弱 当地时间8月14日，美股三大股指小幅收跌。道指跌0.2%报53732.41点，标普500指数跌0.17%报7785.76点...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqr2258819.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:59+08:00",
+      "sector": "半导体/芯片",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -77,6 +231,17 @@
       "pub_time": "2026-08-15T11:34+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "9d962fb8627a",
+      "title": "2000万美元投资亏损，“小核酸第一股”起诉创始人陆阳",
+      "summary": "因为一笔投资亏损，“小核酸第一股”将创始人告上了法庭。 8月14日，圣诺医药（2257.HK）发布公告称，公司及其直接全资附属公司圣诺（香港）有限公司已向香港特别行政区高等...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfht2370079.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:34+08:00",
+      "sector": "医药/生物",
+      "sentiment": "negative",
       "importance": "normal"
     },
     {
@@ -153,6 +318,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-15T11:04+08:00",
       "sector": "宏观/政策",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "2522d7a035bf",
+      "title": "亲历印尼7.7级地震中国游客发声：第一次经历地震很害怕 机场关闭航班延误中",
+      "summary": "【#亲历印尼7.7级地震中国游客发声#：第一次经历地震很害怕 机场关闭航班延误中】#中国游客印尼经历地震航班延误#8月15日，中国地震台网正式测定...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhq3631720.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T11:00+08:00",
+      "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -278,6 +454,17 @@
       "importance": "normal"
     },
     {
+      "id": "cd221c9a52a2",
+      "title": "2026年高考专业“弃选榜”：会计学居首，人工智能也“遇冷”？",
+      "summary": "来源：财经杂志 “弃选名单”折射的并非某个专业的整体势微，而是高校人才培养与产业需求之间的结构性错配 文|《财经》记者 鲁伟 编辑 | 朱弢 2026年高考本科录取渐入尾声...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkfhv8784309.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-15T09:51+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
       "id": "92ed114bcc1f",
       "title": "A股一周熊股出炉：最熊股跌超24%，金一文化、洛阳钼业上榜",
       "summary": "来源：@21世纪经济报道微博 【#A股一周熊股出炉#：最熊股跌超24%，金一文化、洛阳钼业上榜】本周，A股三大指数震荡分化，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1...",
@@ -355,168 +542,25 @@
       "importance": "normal"
     },
     {
-      "id": "85bbaa4f93d3",
-      "title": "注意防范！“暴雨蓝色+冰雹黄色”预警 北京七区双预警齐发",
-      "summary": "今天（8月15日）早晨，北京多区出现明显降雨。截至今天8时，北京昌平、延庆、平谷、海淀、朝阳等七区发布暴雨蓝色预警、冰雹黄色预警。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyw2100446.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:42+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "0ec9510bee52",
-      "title": "上百家A股公司计划半年度现金分红 总额超900亿元",
-      "summary": "人民财讯8月15日电，随着2026年半年报披露进入密集期，A股上市公司分红预案接连出炉。Wind数据显示，截至目前，包括已公布现金分红比例但未公布具体分红金额的公司...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2412696.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:42+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "de024d6f220e",
-      "title": "国家级专精特新“小巨人”已占A股公司总数三成",
-      "summary": "近年来，专精特新企业梯度培育体系不断完善，为优质的创新型中小企业营造了良好的融资环境。Wind数据显示，截至8月14日，年内登陆A股的上市公司中...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininiyys3685227.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:39+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "885faff26afb",
       "title": "视频|印尼突发7.7级强震，一建筑物剧烈摇晃碎片不停脱落，现场一片混乱尖叫不断",
       "summary": "▲新京报我们视频出品（ID：wevideo） 8月15日，印尼弗洛勒斯岛附近海域于4时58分发生7.7级地震，震源深度20公里。该地震引发的海啸已经在多个地点被监测到，最高0.36米。",
       "url": "https://finance.sina.com.cn/world/gjcj/2026-08-15/doc-ininiyyv2413176.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T08:34+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "breaking"
     },
     {
-      "id": "7dbbcfc294f4",
-      "title": "A股一周20大牛股出炉：最牛股蓝盾光电涨近150%",
-      "summary": "来源：21财经 本周，A股三大指数震荡分化，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1.77%。 剔除月内上市新股和退市整理期个股，前20只牛股当周股价均涨超33%。",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininiyyv2415394.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:30+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "f195018fd8ca",
-      "title": "国家能源局：截至6月底电动汽车充电基础设施总数同比增长43.2%",
-      "summary": "截至6月底 电动汽车充电基础设施总数同比增长43.2% 《人民日报》（2026年08月15日第01版） 本报北京8月14日电（记者王云杉）记者从国家能源局获悉：截至6月底...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2403904.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:25+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "d67b1e61c45d",
-      "title": "前7月 快递业务量同比增长4.8%",
-      "summary": "前7月 快递业务量同比增长4.8% 《人民日报》（2026年08月15日第01版） 本报北京8月14日电（记者韩鑫）记者从国家邮政局获悉：今年前7月，我国快递业务量累计完成1174...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyx8863292.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:25+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
       "id": "11690249d7ad",
       "title": "宁夏水预算管理实现全覆盖：精打细算，像管钱一样管水（经济新方位）",
       "summary": "宁夏水预算管理实现全覆盖 精打细算，像管钱一样管水（经济新方位） 本报记者 张 文《人民日报》（2026年08月15日第02版） 宁夏回族自治区吴忠市青铜峡市大坝镇沙庙村...",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2403903.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T08:25+08:00",
       "sector": "有色/资源",
       "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "280610de679d",
-      "title": "路易吉，正式认罪！他此前当街枪杀美国联合健康保险CEO，或面临终身监禁",
-      "summary": "每经编辑|段炼 当地时间8月14日，路易吉·曼吉奥内就枪杀联合健康保险首席执行官布赖恩·汤普森（Brian Thompson）一案正式认罪。联邦法官将路易吉·曼吉奥内的量刑日期定于12...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyys3677355.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:22+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "2ccf5715fde8",
-      "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-      "summary": "来源：财联社 据业内人士看到的文件显示，Anthropic PBC在向潜在投资者推介时透露，公司第二季度的营业收入较去年同期实现了约14倍的巨幅增长。",
-      "url": "https://finance.sina.com.cn/stock/usstock/2026-08-15/doc-ininiyys3671314.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:11+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "1cdb8661f0a2",
-      "title": "长安基金换帅 万联证券首席信息官陈卓权出任董事长",
-      "summary": "人民财讯8月15日电，8月15日，长安基金公告称，该公司已完成董事会换届调整，陈卓权出任董事长。 此前一周，证监会批复核准万联证券成为长安基金主要股东...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyv2393381.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:06+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "8ba936f68b39",
-      "title": "零售数据爆冷！存储芯片逆市拉升，闪迪五日大涨35%，无人机概念股狂飙，油价反弹",
-      "summary": "本周道指累计下跌0.56%，标普500指数上涨0.36%，纳指上涨0.14%。 周五（14日）美股小幅收低。美国7月零售销售意外下降、消费者信心走弱...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininiyyw2080934.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:02+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "9e3230be0258",
-      "title": "荀玉根等 | 牛市第三阶段的新叙事",
-      "summary": "来源：荀玉根思考 核心结论：①24年924开启的牛市进入第三阶段，市场调整后的新一轮上涨往往出现新叙事。②新叙事1：科技从上游到下游，从出口逻辑到国产替代...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininiyyx8859785.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:00+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "10846614a825",
-      "title": "IPO雷达| 业绩“过山车”，森泰英格的高增长能否持续？",
-      "summary": "作为国内机床附件细分赛道的 “专精特新小巨人”，森泰英格（874784.BJ）二度冲击资本市场，此番从科创板转向北交所，拟募资2.8亿元扩产刀具与夹具产能。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyys3663920.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T08:00+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "35336edc84e3",
-      "title": "美股存储芯片巨头，大涨超7%",
-      "summary": "当地时间8月14日，美股三大股指小幅收跌。万得美国科技七巨头指数跌0.17%，亚马逊跌近1%。存储股普遍上涨，闪存芯片巨头闪迪涨超7%。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiyyw2081131.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T07:58+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "positive",
       "importance": "normal"
     },
     {
@@ -524,7 +568,7 @@
       "title": "金价、银价、油价，都涨了",
       "summary": "来源：央视财经 14日美国三大股指集体下跌 美国商务部14日发布的数据显示，7月零售数据在各个层面都令人失望，美国国内消费正显现出疲软迹象。",
       "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininiyyv2394765.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T07:57+08:00",
       "sector": "消费",
       "sentiment": "neutral",
@@ -535,7 +579,7 @@
       "title": "淡化中期选举影响 特朗普说准备重创伊朗经济",
       "summary": "美国总统唐纳德·特朗普准备对伊朗采取前所未有的经济措施，希望加大力度迫使德黑兰在挺过了近六个月的战争后投降。 他在接受福克斯新闻简短采访时说...",
       "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiyys3657216.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T07:48+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -812,94 +856,6 @@
       "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3733916.shtml",
       "source": "新浪A股",
       "pub_time": "2026-08-15T04:57+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "a875969676d9",
-      "title": "特朗普：永远不会因为战争导致美国汽油价格上涨而道歉",
-      "summary": "美国总统特朗普表示，他不会因为伊朗战争导致美国人承担更高汽油价格而道歉。 特朗普在长岛的一场活动上作出上述表态。 特朗普还表示...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2156431.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:56+08:00",
-      "sector": "国际市场",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "4ec41bf2016f",
-      "title": "8月15日收盘：美股三大指数周五收跌，标普500周线三连阳",
-      "summary": "标普500指数在周四创下历史新高后周五回落，但该指数仍录得连续第三周上涨。 道指跌107.57点，跌幅为0.2%，报53732.41点；标普500指数跌13.23点，跌幅为0.17%，报7785...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3862105.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:50+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "b132ea8c94d8",
-      "title": "卢拉：巴西将在大选后决定是否接受美驻巴大使提名",
-      "summary": "巴西总统卢拉14日表示，巴西政府将在今年10月大选结束后，再决定是否认可美国总统特朗普提名的丹尼尔·佩雷斯作为美驻巴西大使人选。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiusu3735207.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:47+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "important"
-    },
-    {
-      "id": "e43ceb580152",
-      "title": "纽约汇市：美元因美国零售销售疲软而下跌 日元小幅走强",
-      "summary": "彭博美元指数触及5月份以来最低，此前美国零售销售数据出人意料地表现疲软，令市场对美国加息的预期降温。日元小幅上涨。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9054812.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:39+08:00",
-      "sector": "消费",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "e1b1bfb4e1e0",
-      "title": "大宗商品综述：油价上涨 铜价走高 金价反弹",
-      "summary": "原油价格小幅走高，交易员权衡美国拟加大对伊朗经济压力的威胁。铜价上涨，有迹象显示铜供应进一步趋紧。金价回升，最新通胀数据削弱对美联储加息的预期。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqma2282143.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:38+08:00",
-      "sector": "金融",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "9ff0ba4a75a4",
-      "title": "报道：特朗普称将重创伊朗经济",
-      "summary": "福克斯新闻一名记者在节目中援引对美国总统特朗普的采访称，美国将重创伊朗经济。 这名记者称，特朗普在被问及伊朗时表示，他并不在意这件事是不是在中期选举前发生。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2578419.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:15+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "32a2eee5832b",
-      "title": "报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会",
-      "summary": "Semafor记者在X平台发文称，Coinbase、Andreessen Horowitz（a16z）、Kalshi、Ripple和Chainlink的高管预计将于周三出席在白宫举行的会议。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3850860.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:14+08:00",
-      "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "important"
-    },
-    {
-      "id": "8b306c0e49fa",
-      "title": "美国债市：国债收益率曲线熊陡 英债遭抛售波及美债",
-      "summary": "美国国债在周五上午承压，追随欧债在伦敦收盘前的跌势，英国国债卖压尤其明显。纽约午后交易时段美债跌幅大体维持，收益率曲线全天呈现熊陡。",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9048196.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T04:14+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
