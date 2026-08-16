@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-16 15:23 北京时间",
-  "total": 80,
+  "last_updated": "2026-08-16 16:17 北京时间",
+  "total": 82,
   "items": [
+    {
+      "id": "0cb1b6acc10c",
+      "title": "下周影响市场重要资讯前瞻：国家统计局将公布7月国民经济数据，二季度恒生指数系列检讨结果将公布",
+      "summary": "国家统计局将公布7月国民经济数据；二季度恒生指数系列检讨结果将公布；阿里、百度、网易等将披露最新财报；年内最贵新股频准激光将于8月18日科创板上市。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnzcq9732637.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:24+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "important"
+    },
+    {
+      "id": "abf176e6b7b5",
+      "title": "十大机构看后市：A股反弹窗口已经开启，筹码问题出清后，AI反弹行情可能延续",
+      "summary": "本周三大指数，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1.77%。后市将如何发展？看看机构怎么说。 申万宏源策略一周回顾展望：消化微观结构问题后 反弹再延续 短期...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnzcq9732252.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:23+08:00",
+      "sector": "AI/科技",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "6d330123a20c",
+      "title": "段永平、李录最新调仓曝光",
+      "summary": "近期美股机构投资者二季度13F持仓密集披露，知名投资人段永平、李录最新调仓路径随之曝光。 段永平继续加仓拼多多 大幅减持英伟达、谷歌 据券商中国报道...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7741422.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:15+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "b2f3ad78fed6",
       "title": "Waymo获批大幅扩张加州运营范围，机器人出租车服务将覆盖18个县",
@@ -311,6 +344,17 @@
       "importance": "normal"
     },
     {
+      "id": "5954665758d1",
+      "title": "营收1.66亿元、应收14.56亿，301218要砸3亿买下的傲星科技，钱都压哪儿了？",
+      "summary": "来源：中国基金报 记者：刘墨 【导读】营收1.66亿元、应收14.56亿元，华是科技3亿元买下的傲星科技，钱都压哪儿了？ 8月14日晚间，华是科技（代码：301218）公告称...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnkfw9978855.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T09:34+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
       "id": "56de54e67268",
       "title": "韩国股市回暖卖空规模却不降反升 投资者疑虑芯片行业是否见顶",
       "summary": "周日公布的数据显示，尽管韩国股市从芯片及人工智能相关个股暴跌引发的行情崩盘中大幅反弹，但股票卖空规模仍在持续走高。",
@@ -513,7 +557,7 @@
       "title": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分",
       "summary": "据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型数据中心项目。",
       "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtkf0249840.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T03:16+08:00",
       "sector": "半导体/芯片",
       "sentiment": "neutral",
@@ -524,31 +568,9 @@
       "title": "受美国海上封锁影响，伊朗实际上已经停止汽油进口",
       "summary": "伊朗议会能源委员会发言人礼萨·塞帕万周六表示，受美国海上封锁影响，伊朗实际上已经停止汽油进口。“我们目前面临海上封锁，汽油进口已经中断。",
       "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtiz1846000.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T02:03+08:00",
       "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "69dc467c839d",
-      "title": "电影《牛来》“票房暴涨1000倍”，预测总票房1837万元 大批股民许愿：希望周一带动“牛”股上涨",
-      "summary": "来源：大河报 8月15日，“牛来票房暴涨1000倍”相关话题登上微博热搜榜第一名。据灯塔专业版数据，截至16日零点，累计票房已超221万元。",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininncxv1676581.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-16T01:36+08:00",
-      "sector": "综合/其他",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "e3f97cc9e0ba",
-      "title": "高毅、景林美股调仓曝光！一个加仓存储龙头，一个清仓英伟达",
-      "summary": "知名私募最新美股持仓浮出水面。 近日，高毅资产旗下海外基金2026年二季度美股持仓通过美国证券交易委员会（SEC）官网披露。数据显示，截至二季度末...",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-16/doc-ininmpac1943804.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-16T00:17+08:00",
-      "sector": "半导体/芯片",
       "sentiment": "neutral",
       "importance": "normal"
     },
