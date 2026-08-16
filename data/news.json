@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-08-16 16:17 北京时间",
-  "total": 82,
+  "last_updated": "2026-08-16 17:18 北京时间",
+  "total": 83,
   "items": [
+    {
+      "id": "f7b47fa337cf",
+      "title": "海外BD大单落定，国产胰岛素龙头借力减重药能否开启新增长曲线？",
+      "summary": "来源：尺度商业 文 | 董武英 编辑 | 刘振涛 近年来，国内生物医药行业加速发展，医药类上市公司接连签订大额海外BD（商务拓展）大单。",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-08-16/doc-ininnzcn1015795.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T17:05+08:00",
+      "sector": "医药/生物",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "0cb1b6acc10c",
       "title": "下周影响市场重要资讯前瞻：国家统计局将公布7月国民经济数据，二季度恒生指数系列检讨结果将公布",
@@ -31,6 +42,50 @@
       "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7741422.shtml",
       "source": "新浪财经",
       "pub_time": "2026-08-16T15:15+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "1863cd77e7c7",
+      "title": "国融基金九年四换帅：规模缩水七成五，成立至今未盈利",
+      "summary": "来源：证券之星 8月8日，国融基金管理有限公司（下称 “国融基金”）发布高级管理人员变更公告，公司总经理毛灵俊因个人原因于8月7日离任...",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-08-16/doc-ininnzcm1380123.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:00+08:00",
+      "sector": "金融",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "9ee2d7801adf",
+      "title": "转型多年业绩未见起色，重资产“包袱”沉重，湖北广电中报续亏超2.52亿",
+      "summary": "来源：证券之星 近日，湖北广电（000665.SZ）发布2026年半年度业绩预告。预计今年上半年公司业绩延续亏损态势，其中扣非后净利润亏损超2.52亿元，与上年同期基本持平。",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000543.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:00+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "787dd088d52d",
+      "title": "冠豪高新：5.48亿资产处置“扮靓”利润，现金流仍未回正",
+      "summary": "来源：证券之星 8月8日，冠豪高新（600433.SH）披露2026年半年度报告，账面数据呈现大幅反转。报告期内，公司实现营业收入36.39亿元，同比小幅上涨6.94%；归属净利润2...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000329.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:00+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "a8f9b8f71075",
+      "title": "江波龙：百亿存货压顶、现金流持续“失血”，高价定增套牢投资机构",
+      "summary": "来源：证券之星 近日，江波龙（301308.SZ）披露了2026年半年度报告，公司营收和净利润双双实现增长。证券之星注意到，业绩增长背后尚存隐忧，为锁定上游晶圆供应...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcp7772625.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T15:00+08:00",
       "sector": "半导体/芯片",
       "sentiment": "neutral",
       "importance": "normal"
@@ -498,22 +553,11 @@
       "importance": "normal"
     },
     {
-      "id": "f01da8f5b14f",
-      "title": "视频|北京证监局对吴斌采取出具警示函措施",
-      "summary": "",
-      "url": "https://finance.sina.com.cn/stock/2026-08-16/doc-ininncxv1667814.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-16T07:13+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "f90ebd7b85aa",
       "title": "美国中央司令部指挥官完成为期10天的中东之行",
       "summary": "美国中央司令部指挥官于8月15日结束为期10天的中东行程，此行到访六个国家，并登上部署于阿拉伯海的美国海军航空母舰。",
       "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1777011.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T05:53+08:00",
       "sector": "商业航天/军工",
       "sentiment": "neutral",
@@ -524,7 +568,7 @@
       "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
       "summary": "今天（16日）早晨，厄瓜多尔共和国总统丹尼尔·罗伊-希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrx1770925.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T05:25+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -535,7 +579,7 @@
       "title": "特朗普释放可能参与2028年大选的信号",
       "summary": "美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”",
       "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1763357.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T04:54+08:00",
       "sector": "AI/科技",
       "sentiment": "neutral",
@@ -546,7 +590,7 @@
       "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
       "summary": "央视记者当地时间8月15日获悉，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。 过去一周，该州连降暴雨，导致多条河流的水位创下历史新高...",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrz8171244.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-16T04:48+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -758,39 +802,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-15T14:01+08:00",
       "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "c8ce6b9e08de",
-      "title": "英伟达CPO交换机全面量产：能效提升5倍，供应商包括天孚通信",
-      "summary": "8月14日，英伟达NVIDIA AI Infrastructure官方X账号宣布，Spectrum-X以太网硅光交换机（Ethernet Photonics）现已全面量产，为AI工厂提供下一代Scale-Out（横向扩展）网络...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1962999.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T13:19+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "e6661c094a5d",
-      "title": "能繁母猪逼近政策红线，猪周期何时迎来反转？",
-      "summary": "全国猪价8连涨，能繁母猪逼近政策红线，周期拐点渐行渐近。 8月15日，全国外三元均价约10.82元/公斤，实现8日连涨。 另据期货日报报道，进入8月...",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkmqs1962260.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T13:12+08:00",
-      "sector": "宏观/政策",
-      "sentiment": "neutral",
-      "importance": "important"
-    },
-    {
-      "id": "2de0312965b7",
-      "title": "中际旭创等AH股价格倒挂 国际资本重新定价硬科技核心资产",
-      "summary": "伴随着国际资本持续“买买买”，越来越多硬科技次新股 出现AH价格倒挂。 截至8月13日，共有7家公司H股较A股出现溢价，分别为宁德时代 、澜起科技 、招商银行 、兆易创新 ...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1961968.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T13:12+08:00",
-      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
