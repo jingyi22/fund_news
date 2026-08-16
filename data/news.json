@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-16 11:40 北京时间",
-  "total": 86,
+  "last_updated": "2026-08-16 12:26 北京时间",
+  "total": 84,
   "items": [
+    {
+      "id": "a696d7c3611e",
+      "title": "民调：超半数美国选民称生活境况恶化，民主党在经济就业议题获得更多选民信任",
+      "summary": "一项民调显示，多数美国选民表示自身生活境况在特朗普执政期间出现恶化，民众对总统处理经济、生活成本问题的不满情绪持续攀升。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqps1158228.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T12:14+08:00",
+      "sector": "国际市场",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "6536198808c8",
+      "title": "大众等头部车企采用新型机油与润滑油配方以缓解供应短缺",
+      "summary": "大众、斯特兰蒂斯、丰田等车企开始采用新型调配机油与润滑油配方，以此缓解中东冲突引发的严重供应短缺危机。 冲突爆发初期几个月车企尚能依靠库存维持生产...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7930118.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T12:12+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "e545a80a57b3",
+      "title": "SpaceX上市造富高校圈：哈佛持22亿美元股份领跑",
+      "summary": "近日，哈佛大学旗下投资管理机构哈佛管理公司（Harvard Management Company， HMC）向美国证券交易委员会提交了13F季度持仓报告；报告显示，截至2026年二季度末...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqps1152773.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T11:58+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "e3abc6d39c24",
       "title": "韩国首尔首次购房人数创四年多来新高",
@@ -520,39 +553,6 @@
       "importance": "normal"
     },
     {
-      "id": "9915e650c44c",
-      "title": "10个交易日狂抛5259万股！世纪华通大股东套现7.13亿，突然终止减持！",
-      "summary": "14 天套现 7.13 亿后突然 “踩刹车”：世纪华通大股东提前终止减持，释放什么信号？ 8 月 13 日，世纪华通（002602）发布公告，公司第一大股东王佶及其一致行动人吉运盛决定...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmhui8446596.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T19:40+08:00",
-      "sector": "综合/其他",
-      "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "31b6f61ab4a5",
-      "title": "利好来了！600406，最高10亿元！又一批A股公司，宣布回购",
-      "summary": "来源：中国基金报 【导读】国电南瑞拟回购5亿元至10亿元股份 中国基金报记者 夏天 8月14日晚间，A股上市公司回购阵营再添新力量。",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1736971.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T19:36+08:00",
-      "sector": "金融",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "825235b44a7c",
-      "title": "PCB产业链牛股圣泉集团增收不增利？真相是......",
-      "summary": "作为PCB产业链上游材料重要供应商，圣泉集团2026年成为PCB产业链大牛股，二季度区间最大涨幅达160.89%，受到资本市场关注。8月14日晚间，圣泉集团披露的2026年半年报显示...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1736538.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T19:33+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "133068569008",
       "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致，谈判仍在进行中",
       "summary": "伊朗外交部发言人巴加埃周六表示，伊朗和阿曼已就“航运路线图”达成一致，这是管理霍尔木兹海峡交通的更广泛协议的一部分。",
@@ -814,28 +814,6 @@
       "pub_time": "2026-08-15T12:10+08:00",
       "sector": "消费",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "88a5c1e57b0d",
-      "title": "特朗普的各项要求拖累美国海军推进工作",
-      "summary": "本月，特朗普对海军提出的一系列要求全面落地，本就承受巨大财政与后勤压力的美国海军，实力或将遭到削弱。 “亚伯拉罕·林肯”号航空母舰正在海外部署...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqs1930689.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T12:04+08:00",
-      "sector": "商业航天/军工",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "46f1ffe59b08",
-      "title": "伊朗首次展示美军机残骸 想传递什么信息？",
-      "summary": "据伊朗塔斯尼姆通讯社报道，伊朗伊斯兰革命卫队公开展出大量美以飞机残骸，其中包括一架F-15战斗机残骸，为首次公开展示。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqn3523688.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T11:53+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
