@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-16 12:26 北京时间",
-  "total": 84,
+  "last_updated": "2026-08-16 13:20 北京时间",
+  "total": 83,
   "items": [
+    {
+      "id": "6fbafdc335e1",
+      "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
+      "summary": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）启动六城八店布局计划。当日，首批线下门店于上海、深圳...",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-08-16/doc-ininnuvq1046937.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T13:00+08:00",
+      "sector": "消费",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "fa7026074ff0",
+      "title": "视频|岚图汽车卢放：最好的车在中国！提到汽车驾控一定会出现岚图",
+      "summary": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-08-16/doc-ininnuvq1046488.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T12:59+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "0f975cb3d8e9",
+      "title": "新一轮波动风险酝酿中？“恐慌指数”跌至年内低位，科技股高位震荡",
+      "summary": "本周美股各大指数表现分化，标普500迎来7800点里程碑的同时道指结束周线两连阳。美国通胀数据叠加零售销售下滑，提升了美联储9月暂停加息的概率；与此同时...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqpt7938616.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T12:29+08:00",
+      "sector": "AI/科技",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
     {
       "id": "a696d7c3611e",
       "title": "民调：超半数美国选民称生活境况恶化，民主党在经济就业议题获得更多选民信任",
@@ -44,6 +77,17 @@
       "pub_time": "2026-08-16T11:13+08:00",
       "sector": "综合/其他",
       "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "9af205f65e96",
+      "title": "金融圈大事，倒计时！头部机构“摩拳擦掌”忙申报，部分中小公司却犯难，业内感慨：申请牌照易，拼获客难",
+      "summary": "【导读】基金投顾牌照扩容进入冲刺阶段，头部公募积极申报备战 中国基金报记者 曹雯璟 随着8月末基金投顾牌照的申报时点日渐临近，基金投顾新一轮扩容已然进入冲刺阶段。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqps1130399.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T10:59+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -509,50 +553,6 @@
       "importance": "normal"
     },
     {
-      "id": "8db304a88f2e",
-      "title": "时隔五年重新开闸！15家中小公募拿到这一“红包”",
-      "summary": "支持中小基金公司规范健康发展迎来实质性落地举措。 8月14日晚，中国证监会网站显示，15家中小公募上报摊余成本法债基，分别为尚正基金、红土创新基金、百嘉基金...",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-15/doc-ininmhuh1642535.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T20:57+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "1afc9412cc6e",
-      "title": "巴菲特接班人，最新调仓曝光！",
-      "summary": "“股神”巴菲特卸任后的第二个季度，伯克希尔·哈撒韦的投资组合发生明显变化。 美东时间周五（8月14日），巴菲特的接班人格雷格·阿贝尔...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmani2104785.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T20:32+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "4376621b133e",
-      "title": "亚特兰蒂斯水世界存在安全漏洞？家长质疑救生员见死不救，酒店回应：将记录核实",
-      "summary": "8月15日，有家长在社交媒体上发文质疑三亚亚特兰蒂斯水世界存在安全漏洞，称救生员面对求救没有任何反应，导致孩子差点溺水。",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1750867.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T20:15+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "a2c4852cbed0",
-      "title": "加仓！两大CPO龙头股，获资金大笔净流入",
-      "summary": "本周（8月10日—14日）A股市场震荡分化，板块快速轮动，5个交易日成交额合计超11万亿元。上证指数累计下跌0.33%，深证成指、创业板指、科创综指分别累计上涨0.30%、1.77%...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1743758.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T19:54+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "133068569008",
       "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致，谈判仍在进行中",
       "summary": "伊朗外交部发言人巴加埃周六表示，伊朗和阿曼已就“航运路线图”达成一致，这是管理霍尔木兹海峡交通的更广泛协议的一部分。",
@@ -803,17 +803,6 @@
       "pub_time": "2026-08-15T12:14+08:00",
       "sector": "金融",
       "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "43d3a7c54811",
-      "title": "通胀数据降温叠加零售销售骤降，美元承压100关口！日元干预成果腰斩，160关口成生死线",
-      "summary": "来源：汇通 汇通财经APP讯——本周全球汇市在美国经济数据的双重冲击下波动明显。先是通胀指标连续降温，削弱了市场对美联储9月加息的紧迫预期；随后周五（8月14日）公布的7...",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3532044.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T12:10+08:00",
-      "sector": "消费",
-      "sentiment": "negative",
       "importance": "normal"
     },
     {
