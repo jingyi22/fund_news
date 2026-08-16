@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-08-16 13:20 北京时间",
+  "last_updated": "2026-08-16 14:23 北京时间",
   "total": 83,
   "items": [
+    {
+      "id": "285b36c38c45",
+      "title": "韩国股市反弹 韩国投资者再度融资买入",
+      "summary": "市场数据周日显示，随着韩国股市自深度低点反弹，本土投资者再度大举融资买入本国股票。 韩国金融投资协会（KOFIA）统计数据显示，截至周四...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9830932.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T14:08+08:00",
+      "sector": "金融",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "8a985d15a306",
+      "title": "《牛来》票房突破300万元，排片暴增超1900倍，股民：讨个好彩头",
+      "summary": "近日，暑期档国产动画电影《牛来》因画面粗糙、票房低反向走红，连续两日单日票房暴涨。 从8月5日到8月14日，该电影的单日票房在188元到3934元之间。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnuvr7827744.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T13:01+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "6fbafdc335e1",
       "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
@@ -65,6 +87,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-16T11:58+08:00",
       "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "d27725c88c79",
+      "title": "五大因素叠加发酵，摩根大通：全球粮食危机或将在明年爆发",
+      "summary": "来源：华尔街见闻 摩根大通警告，受战争、天气、仓储、水资源和浪费五个因素叠加驱动，全球粮食危机可能于2027年上半年爆发。预计全球食品通胀率将从2026年上半年的2...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnqpu9901497.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-16T11:30+08:00",
+      "sector": "消费",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -520,34 +553,12 @@
       "importance": "normal"
     },
     {
-      "id": "9378fd236be0",
-      "title": "业内人士回应宇树IPO被倒卖",
-      "summary": "记者丨赵云帆 编辑丨郑世凤 张明艳 近期，市场上有讨论称宇树科技场外出现“黄牛收购筹码”，部分中介报价大幅超过发行价格。 对此，记者向投资机构、私募...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmhuh1660448.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T21:47+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "4512bbe3f193",
       "title": "美国海军据悉考虑应特朗普要求重新设计航空母舰",
       "summary": "据多位现任和前任美国官员透露，美国海军正在考虑对其新型航空母舰进行重大重新设计，以更好地符合美国总统特朗普对军舰外观的偏好。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhuh1644889.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-15T21:14+08:00",
-      "sector": "商业航天/军工",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "b622a135ef79",
-      "title": "局势突变！以色列，发动空袭",
-      "summary": "以色列的空袭行动，令中东局势再度紧张起来！ 8月15日最新消息，以色列国防军发布声明称，以军15日对黎巴嫩真主党多处基础设施发动了空袭。",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-15/doc-ininmhuh1642581.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-15T20:57+08:00",
       "sector": "商业航天/军工",
       "sentiment": "neutral",
       "importance": "normal"
@@ -791,17 +802,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-15T12:16+08:00",
       "sector": "商业航天/军工",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "8a855eb92873",
-      "title": "卫龙的新增毛利，全花在广告上了 | 巴伦港股",
-      "summary": "来源：Barrons巴伦 上半年卫龙毛利率有所回升，经营利润却同比下降3.3%。蔬菜制品和线上直销撑起收入增长，新增毛利则基本被营销投入吸收。",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-15/doc-ininkrwp2203062.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-15T12:14+08:00",
-      "sector": "金融",
       "sentiment": "neutral",
       "importance": "normal"
     },
