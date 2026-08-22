@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-08-22 13:19 北京时间",
+  "last_updated": "2026-08-22 14:23 北京时间",
   "total": 79,
   "items": [
+    {
+      "id": "b3a4edace53b",
+      "title": "美国初创企业创始人拼命追赶AI智能体的工作节奏",
+      "summary": "令人着迷、让人沉醉、让人全身心投入。这些词是美国初创企业创始人描述管理自己这批新“员工”——AI智能体时的感受。 阿迪蒂亚·夏尔马最近熬了一整夜...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipeims0781198.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T13:57+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "fa5b01225a5d",
       "title": "197家机构，“盯上”这只翻倍牛股",
@@ -546,7 +557,7 @@
       "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
       "summary": "Allspring Global Investments股票投资主管Ann Miletti近日表示，尽管英伟达的财报备受瞩目，但下周举行的杰克逊霍尔经济研讨会才是华尔街目前面临的最大短期风险。",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-22T02:57+08:00",
       "sector": "半导体/芯片",
       "sentiment": "negative",
@@ -747,17 +758,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-22T00:42+08:00",
       "sector": "国际市场",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "955db07617da",
-      "title": "阿曼外交大臣与伊朗外长通话 讨论霍尔木兹海峡航运",
-      "summary": "当地时间21日，阿曼外交大臣巴德尔与伊朗外交部长阿拉格齐通电话，双方就地区最新局势以及霍尔木兹海峡航运最新情况等交换意见。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcfyf7913157.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-22T00:38+08:00",
-      "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
     },
