@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-08-22 10:10 北京时间",
-  "total": 79,
+  "last_updated": "2026-08-22 11:34 北京时间",
+  "total": 80,
   "items": [
+    {
+      "id": "ce7f14f815d1",
+      "title": "国内多家品牌金饰报价上调",
+      "summary": "新京报贝壳财经讯 8月22日，现货黄金现涨1.86%，达4603.25美元/盎司。国内多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，老凤祥报价1388元/克...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeccx1322465.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T11:13+08:00",
+      "sector": "消费",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "3a419cffae25",
+      "title": "金价、银价、油价，集体上涨",
+      "summary": "转自：央视财经 周五，市场持续担忧伊朗原油出口以及霍尔木兹海峡航运安全，国际油价连续六个交易日上涨。贵金属方面，受美元走弱、市场避险情绪升温等因素提振...",
+      "url": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipeccv7592475.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T10:18+08:00",
+      "sector": "有色/资源",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "8f0dad531e59",
       "title": "A股一周熊股出炉：北京文化跌超30%，人民同泰、春秋电子上榜",
@@ -12,6 +34,17 @@
       "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
+    },
+    {
+      "id": "0e58246d532d",
+      "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
+      "summary": "当地时间8月21日，一名美国联邦地区法官推翻了特朗普政府暂停向75个国家申请人发放移民签证的政策，称该政策超出了国务卿鲁比奥的法定权限。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeccr6114532.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T09:28+08:00",
+      "sector": "宏观/政策",
+      "sentiment": "neutral",
+      "importance": "important"
     },
     {
       "id": "f81a559c0b72",
@@ -520,33 +553,11 @@
       "importance": "normal"
     },
     {
-      "id": "c261001d1d20",
-      "title": "私募管理规模突破25万亿 资金借“基”奔赴股市",
-      "summary": "◎记者 马嘉悦 私募管理规模连续10个月创出历史新高。 中国证券投资基金业协会（简称“中基协”）最新数据显示，截至7月末，私募存续总规模升至25.73万亿元，相较于6月末的23...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-22/doc-inipcfye1173688.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:45+08:00",
-      "sector": "金融",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "28e1ad105884",
-      "title": "私募信披新规落地在即 各方启动合规升级工作",
-      "summary": "◎记者 何漪 《私募投资基金信息披露监督管理办法》（下称“办法”）将于2026年9月1日起施行。在办法正式实施前夕，上海证券报记者了解到...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-22/doc-inipcfxz6388975.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:45+08:00",
-      "sector": "金融",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
       "id": "1f9b9720b486",
       "title": "央行、市场监管总局明确人民币买卖边界",
       "summary": "◎记者 张琼斯 中国人民银行、市场监管总局8月21日发布公告称，除特定情形外，禁止任何单位和个人买卖人民币。两部门称，此举旨在打击非法买卖人民币的活动...",
       "url": "https://finance.sina.com.cn/roll/2026-08-22/doc-inipcfxz6388956.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-22T02:45+08:00",
       "sector": "金融",
       "sentiment": "neutral",
