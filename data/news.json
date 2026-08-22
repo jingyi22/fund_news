@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-22 16:18 北京时间",
-  "total": 84,
+  "last_updated": "2026-08-22 17:18 北京时间",
+  "total": 86,
   "items": [
+    {
+      "id": "4fbff06bf69c",
+      "title": "中央气象台：全球天气公报（2026年08月22日）",
+      "summary": "（来源：中央气象台网站） 来源：中央气象台网站 1．越南法国瑞士等地出现较强降水 过去24小时（8月21日00时-8月22日00时，UTC），朝鲜半岛、日本关东地区、琉球群岛...",
+      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-08-22/doc-inipeptq0713424.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T16:30+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "6ae151563315",
+      "title": "官方回应“白菜收购蘸取甲醛溶液问题”",
+      "summary": "央视网消息：据“康保发布”微信公众号消息，8月22日，河北张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptu3198204.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T16:19+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "61159a42f6a9",
+      "title": "网传河北一地“白菜装车前蘸甲醛” 当地通报：属实，紧急追溯流向",
+      "summary": "今天，河北省张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题，康保县第一时间组织农业农村、市场监管...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptq0708057.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T16:07+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "breaking"
+    },
     {
       "id": "c304ae9ca3b3",
       "title": "美联储，加息大消息！高盛，最新警告",
@@ -11,6 +44,17 @@
       "pub_time": "2026-08-22T16:07+08:00",
       "sector": "金融",
       "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "6c6a3599d1a7",
+      "title": "吉利召回两批车辆合计近9.3万辆 涉事激光雷达来自速腾聚创",
+      "summary": "8月22日消息，国家市场监督管理总局发布公告，浙江吉利汽车有限公司将召回2025年1月8日至2025年12月10日期间生产的部分领克900、领克10 EM-P、领克07和领克08汽车...",
+      "url": "https://finance.sina.com.cn/2026-08-22/doc-inipeptr7473197.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T15:59+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -513,20 +557,9 @@
       "title": "特朗普称干预债市是贝森特自己拿的主意",
       "summary": "美国总统唐纳德·特朗普说，他没有指示斯科特·贝森特本周干预债券市场，是这位财政部长自行决定采取的行动。 “没有，完全没有，” 特朗普周五被问及他是否曾推动贝森特采取行...",
       "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcsqc1390041.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-22T06:09+08:00",
       "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d0e823dbff06",
-      "title": "视频丨伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
-      "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcsqc1393631.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T06:06+08:00",
-      "sector": "国际市场",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -535,7 +568,7 @@
       "title": "8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机",
       "summary": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、伊朗与阿曼外长通话，商讨恢复谈判条件及霍尔木兹海峡航运 2、特朗普推出新关税宽减措施 旨在压低牛绞肉价格 3...",
       "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcsqc1386230.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-22T06:02+08:00",
       "sector": "金融",
       "sentiment": "negative",
@@ -546,7 +579,7 @@
       "title": "特朗普称他没有指示贝森特干预债市",
       "summary": "美国总统唐纳德·特朗普被问及是否他本人下令干预债券市场时说，是财政部长斯科特·贝森特“想这么做”。 特朗普在登上“空军一号”前回答了记者提问。",
       "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcspy0959138.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-22T05:29+08:00",
       "sector": "金融",
       "sentiment": "neutral",
@@ -802,17 +835,6 @@
       "source": "新浪A股",
       "pub_time": "2026-08-22T02:08+08:00",
       "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "74984b2fb647",
-      "title": "AI云服务商Nscale据悉拟赴美IPO，最高募资30亿美元",
-      "summary": "知情人士消息，总部位于伦敦的人工智能云计算公司Nscale正寻求通过美国首次公开募股（IPO）筹集高达30亿美元的资金，加入当前AI数据中心企业争相登陆资本市场的行列。",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfyi1518237.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-22T01:57+08:00",
-      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
