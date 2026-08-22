@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-08-22 11:34 北京时间",
-  "total": 80,
+  "last_updated": "2026-08-22 12:23 北京时间",
+  "total": 79,
   "items": [
+    {
+      "id": "21f895a54059",
+      "title": "美加贸易谈判破裂 特朗普政府将对部分加拿大商品征收50%关税",
+      "summary": "美国与加拿大为避免新一轮关税措施的协议谈判在最后关头破裂，意味着特朗普政府将对数十亿美元的加拿大商品征收50%的进口关税。",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipeccx1348388.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T12:01+08:00",
+      "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "fd4d07df1822",
+      "title": "视频丨因保荐项目多项履职违规，国新证券被监管谈话",
+      "summary": "",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccr6180172.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T11:46+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "21c2101e1fd0",
+      "title": "功成身退只身赴港，国联民生挥别“葛小波时代”",
+      "summary": "来源：江苏金融圈 8月21日晚上，国内券商圈又有一位大佬官宣“转会”，他就是国联民生证券总裁葛小波。 从2019年开始，葛小波带着他的“中信系”转投江苏的国联证券...",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccv7629303.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T11:30+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "562b1036a8c6",
+      "title": "长存控股闯关IPO：业绩高增长与三道必过坎",
+      "summary": "文|《财经》研究员 周源 编辑|谢丽容 超级周期为长存控股送来332亿元季度利润，但存储芯片行业固有的重资产折旧压力、强周期均值回归与外部供应链约束...",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccx1331302.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T11:25+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
     {
       "id": "ce7f14f815d1",
       "title": "国内多家品牌金饰报价上调",
@@ -10,6 +54,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-22T11:13+08:00",
       "sector": "消费",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "96cbed637b78",
+      "title": "牛散二季度持仓出炉：章建平持仓75亿新进中际旭创，付小铜、葛卫东、钟格调仓一览",
+      "summary": "来源：财闻 8月22日，随着A股上市公司2026年半年报陆续披露，一众知名“牛散”的二季度持仓动向随之浮出水面。通过梳理公开财报，对多位知名牛散最新调仓情况进行盘点（注：...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-22/doc-inipeccu0827912.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T10:45+08:00",
+      "sector": "有色/资源",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -73,6 +128,17 @@
       "title": "30亿元账面浮亏吞噬利润，网易Q2交出平淡成绩单，丁磊称对《遗忘之海》长期运营有信心",
       "summary": "来源：华夏时报 投资亏损近30亿元，让游戏巨头网易在最新的一个财季利润下滑。8月20日晚间，网易发布的2026年Q2财报显示，网易该季度归属于公司股东的净利润为70亿元...",
       "url": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipcwvt6205128.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-22T09:01+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "a0b251e321bc",
+      "title": "钱大妈，递交IPO招股书，拟赴香港上市，中金公司、农银国际联席保荐",
+      "summary": "来源：瑞恩资本RyanbenCapital 2026年8月21日，来自广东广州海珠区的广州钱大妈的控股公司钱大妈国际控股有限公司Qdama International Holding...",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccx1331642.shtml",
       "source": "新浪财经",
       "pub_time": "2026-08-22T09:01+08:00",
       "sector": "综合/其他",
@@ -487,72 +553,6 @@
       "importance": "normal"
     },
     {
-      "id": "1b86b321b468",
-      "title": "近二百家上市公司接受机构调研 业绩表现成关注重点",
-      "summary": "证券时报记者 聂英好 本周（8月17日—21日）2026半年报密集发布，A股共有194家上市公司接受机构投资者调研。从赚钱效应来看，约三成机构调研公司股价上涨...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcfye1177820.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:55+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "4d74f2df396e",
-      "title": "智能眼镜销量持续攀升 “百镜大战”步入淘汰赛",
-      "summary": "证券时报记者 康殷 智能眼镜正在由小众尝鲜加速迈向大众消费。8月21日，雷鸟创新推出定位“人类增强AI眼镜”的雷鸟iO，试图以轻量化外观...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcfxz6396082.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:55+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "5055e318d8b6",
-      "title": "破解跨境资金调度痛点 财务公司助力中企货通四海",
-      "summary": "证券时报记者 孙璐璐 秦燕玲 这个夏天，中国品牌空调为欧洲高温地区送来清凉，再度印证“中国智造”的全球竞争力。但当越来越多的“爆品”货通四海之时...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcfyi1554187.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:55+08:00",
-      "sector": "消费",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "a2cabe291cec",
-      "title": "新三板市场“新陈代谢”加速 硬科技企业接力入场",
-      "summary": "证券时报记者 钟恬 近期新三板市场的新陈代谢正在持续显现：一边是奇致激光、海河游船、明日教育、润华保险等企业陆续摘牌；另一边，德宝股份...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcfyi1554155.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:55+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "b63a83aba8c6",
-      "title": "从CPO到OCS 光通信上游材料迎来价值重构",
-      "summary": "■ 随着CPO交换机规模化落地、OCS全光交换机技术持续推进，传统的光模块组装利润和需求将下滑，上游的磷化铟、硅光SOI晶圆、薄膜铌酸锂等材料需求将大增",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-22/doc-inipcfye1173708.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:45+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "66297c61e677",
-      "title": "创业板指涨逾1% 算力产业链持续回暖",
-      "summary": "算力概念板块日K线图 郭晨凯 制图 ◎张玮华 记者 李雨琪 8月21日，A股市场呈现温和反弹态势，创业板指领涨。截至收盘，上证指数报3905.20点，涨0.04%；深证成指报14094...",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-22/doc-inipcfyf7946261.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-22T02:45+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
       "id": "1f9b9720b486",
       "title": "央行、市场监管总局明确人民币买卖边界",
       "summary": "◎记者 张琼斯 中国人民银行、市场监管总局8月21日发布公告称，除特定情形外，禁止任何单位和个人买卖人民币。两部门称，此举旨在打击非法买卖人民币的活动...",
@@ -760,17 +760,6 @@
       "sector": "综合/其他",
       "sentiment": "neutral",
       "importance": "normal"
-    },
-    {
-      "id": "64c8b2f8cc4e",
-      "title": "美国务院批准对韩出售1.25亿美元“响尾蛇”导弹",
-      "summary": "美国国务院当地时间21日发表声明称，已批准向韩国出售价值1.25亿美元的“响尾蛇”空对空导弹及相关设备服务。声明说，韩国政府提出购买103枚AIM-9X“响尾蛇”Block...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcnfx6291168.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-22T00:29+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
-      "importance": "important"
     },
     {
       "id": "e8c9a3c3e84a",
