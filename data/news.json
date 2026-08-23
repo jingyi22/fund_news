@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-08-23 13:21 北京时间",
-  "total": 63,
+  "last_updated": "2026-08-23 14:25 北京时间",
+  "total": 64,
   "items": [
+    {
+      "id": "966a9458ae53",
+      "title": "阿里拟配售新股，全部投入AI建设",
+      "summary": "新浪科技讯 8月23日下午消息，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphssw6920508.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T13:49+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "ee40886eaf9b",
+      "title": "月赚100多亿元，业绩比长鑫科技更炸裂，又一巨无霸IPO来了！周末还有这些大消息",
+      "summary": "每经记者|彭水萍每经编辑|叶峰 刚过去的交易周（8月17日至21日），A股市场整体先扬后抑，周一冲高后主要股指均陷入持续三天的调整，直到周五才有所企稳修复。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphsst0565155.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T13:40+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "60bbf12583f6",
       "title": "双良睿能公布中期业绩 股东应占利润为约1.1亿元同比减少1.8%",
@@ -87,6 +109,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-23T13:12+08:00",
       "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "c45a31a48da9",
+      "title": "阿里拟配售800亿港元新股，全部投入AI建设",
+      "summary": "中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphsst0554947.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T13:12+08:00",
+      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -524,32 +557,10 @@
       "title": "高盛：希慎兴业下调至“沽售”评级  目标价下调至16港元",
       "summary": "高盛发布研报称，因应股息上调空间有限及利园八期写字楼预租情况存在不确定性，将希慎兴业（00014）评级由“中性”下调至“沽售”，目标价由24.9港元下调至16港元。",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3792666.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:27+08:00",
       "sector": "综合/其他",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "559ef8edddaa",
-      "title": "视频|从盈利陷阱到人才断层：博时基金遇“中年危机”，还有产品在清盘红线边缘",
-      "summary": "",
-      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphnma3790536.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-23T12:20+08:00",
-      "sector": "金融",
-      "sentiment": "positive",
-      "importance": "normal"
-    },
-    {
-      "id": "abf6035f2e78",
-      "title": "长存控股来了！金融机构股东图谱浮现：银行系扎堆，多家券商隐现",
-      "summary": "来源：券商中国 存储龙头股亮相。 8月21日，长江存储控股股份有限公司（公司简称“长存控股”）科创板IPO申报材料正式获得上交所受理，公司计划发行不低于19...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphnkv0649007.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-23T12:00+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
