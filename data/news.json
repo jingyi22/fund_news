@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-23 16:19 北京时间",
-  "total": 68,
+  "last_updated": "2026-08-23 17:19 北京时间",
+  "total": 72,
   "items": [
+    {
+      "id": "958205d0763f",
+      "title": "王兴兴冷面IPO与宇树天价开盘的资本局",
+      "summary": "来源：尺度商业 文 / 大掌柜黄利明 那天敲钟，全场都在笑，大家却意外地看到了王兴兴冷面而对IPO。 宇树科技上市首日，开盘价1100元，市值4449亿元。",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-08-23/doc-iniphwyw3641883.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T17:06+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "3de053fc8bb6",
+      "title": "十大机构看后市：调整无需悲观，还有再度上攻能力，9月反弹延续",
+      "summary": "本周三大指数调整，上证指数跌0.56%，深证成指跌1.81%，创业板指跌2.23%。后市将如何发展？看看机构怎么说。 中信证券：科技股调整不能简单归因于美国长债利率高企...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwys2482796.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T16:34+08:00",
+      "sector": "AI/科技",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "f823efa1e728",
+      "title": "中信证券：科技股调整不能简单归因于美国长债利率高企，背后是AI股远期定价问题",
+      "summary": "策略聚焦|二次调整的背后 来源：中信证券研究 文|裘翔 高玉森 陈泽平 张铭楷 陈峰 科技股近期的调整不能简单归因于美国长债利率高企...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwyr0522998.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T16:22+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "93c57ae8d074",
       "title": "兴证策略张启尧团队：9月将是科技重要的决胜窗口",
@@ -22,6 +55,17 @@
       "pub_time": "2026-08-23T16:09+08:00",
       "sector": "金融",
       "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "093e62aa46ec",
+      "title": "方正策略：逢低布局，继续关注三方面配置机会",
+      "summary": "来源：方正证券研究所于2026年8月21日发布的报告《一周复盘与前瞻：静待新的布局机会 1、市场回顾：本周（2026/8/17-2026/8/21），市场先扬后抑，万得全A全周收跌1.5%...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwyw3619129.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T16:00+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -513,7 +557,7 @@
       "title": "花旗：中海物业目标价下调至4.5港元 维持“买入”评级",
       "summary": "花旗发布研报称，中海物业（02669）上半年业绩表现好坏参半。因利润率受压及与重新定位相关的短期成本，盈利下跌9%。该行认为持续的组合重塑及科技整合有助保护利润率...",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7025178.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:39+08:00",
       "sector": "AI/科技",
       "sentiment": "negative",
@@ -524,7 +568,7 @@
       "title": "中信证券：首次覆盖首钢朗泽给予“买入”评级 目标价高达44港元",
       "summary": "中信证券发布研报称，首次覆盖首钢朗泽（02553），给予“买入”评级，目标价高达44港元，相较研报发布时的26.38港元还有66.79%的上涨空间，随着新项目逐步投产...",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkv0661847.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:38+08:00",
       "sector": "金融",
       "sentiment": "neutral",
@@ -535,7 +579,7 @@
       "title": "小摩：极兔速递-W维持“增持”评级 目标价升至14港元",
       "summary": "摩根大通发表研究报告指，极兔速递-W（01519）中期业绩向好，是该行所评中国物流股份中唯一同时实现业绩超越预期及上调指引的公司，期内收入同比增长39.5%至76.7亿美元...",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkv0661112.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:37+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -546,7 +590,7 @@
       "title": "美银证券：华能国际电力股份目标价下调至4.9港元 重申“跑输大市”评级",
       "summary": "美银证券发布研报称，华能国际电力股份（00902）管理层于上半年业绩会议中提到燃料成本居高不下，且对电价前景未有过多评论，因此无法为近期盈利拐点提供实际支持。",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7023971.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:36+08:00",
       "sector": "金融",
       "sentiment": "negative",
