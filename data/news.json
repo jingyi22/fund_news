@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-08-23 11:42 北京时间",
-  "total": 86,
+  "last_updated": "2026-08-23 12:28 北京时间",
+  "total": 87,
   "items": [
+    {
+      "id": "33c8e36b583b",
+      "title": "高盛：希慎兴业下调至“沽售”评级  目标价下调至16港元",
+      "summary": "高盛发布研报称，因应股息上调空间有限及利园八期写字楼预租情况存在不确定性，将希慎兴业（00014）评级由“中性”下调至“沽售”，目标价由24.9港元下调至16港元。",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3792666.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T12:27+08:00",
+      "sector": "综合/其他",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "559ef8edddaa",
+      "title": "视频|从盈利陷阱到人才断层：博时基金遇“中年危机”，还有产品在清盘红线边缘",
+      "summary": "",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphnma3790536.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T12:20+08:00",
+      "sector": "金融",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "244627419531",
+      "title": "北京新发地启动紧急排查：涉事“甲醛白菜”未流入，当前市场白菜供应充足",
+      "summary": "本文转自【北京丰台】； 针对8月22日网曝河北张家口康保县部分白菜收购商违规使用甲醛溶液保鲜一事，北京新发地农产品批发市场第一时间启动全链条溯源排查。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphnky7011205.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T11:56+08:00",
+      "sector": "综合/其他",
+      "sentiment": "positive",
+      "importance": "breaking"
+    },
     {
       "id": "d0a16f8c75fc",
       "title": "“高中签率”新股，来了！",
@@ -524,7 +557,7 @@
       "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
       "summary": "当地时间8月22日，加拿大总理卡尼表示，从9月8日起，加拿大将对来自美国的多个行业的进口商品征收关税，以报复美国新关税。",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfkxe0386305.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T00:51+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -535,7 +568,7 @@
       "title": "加拿大宣布对美国反制措施 下月将对200亿美元商品征报复性关税",
       "summary": "美加贸易争端进一步升级，加拿大总理马克·卡尼表示，将从9月8日起对美国进口商品实施等额反制关税。 卡尼周六表示：“我们很不情愿采取这一步，因为我们认识到...",
       "url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfkxk2936380.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T00:10+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -546,7 +579,7 @@
       "title": "加拿大要求卡车关税豁免，致使贸易谈判陷入危机",
       "summary": "美加贸易谈判于周五破裂，部分原因是谈判最后关头，双方在取消美国针对加拿大中型、重型车辆征收的关税一事上僵持不下。双方本已形成协议框架，计划下调美国针对汽车...",
       "url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfkxi0984831.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T00:09+08:00",
       "sector": "国际市场",
       "sentiment": "neutral",
@@ -814,28 +847,6 @@
       "pub_time": "2026-08-22T14:32+08:00",
       "sector": "金融",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "05d1ea6572fb",
-      "title": "霍尔木兹海峡过船量单日腰斩，原油周线全线收正，但跨市场价差暴露了什么？",
-      "summary": "汇通网 汇通财经APP讯——过去一周，商品与利率市场呈现油强债弱的再通胀交易特征。原油方面，WTI、布伦特及SC原油周线、月线均录得上涨，其中SC原油月线涨幅接近9%...",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-22/doc-inipeimw3248813.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-22T14:06+08:00",
-      "sector": "金融",
-      "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "b3a4edace53b",
-      "title": "美国初创企业创始人拼命追赶AI智能体的工作节奏",
-      "summary": "令人着迷、让人沉醉、让人全身心投入。这些词是美国初创企业创始人描述管理自己这批新“员工”——AI智能体时的感受。 阿迪蒂亚·夏尔马最近熬了一整夜...",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipeims0781198.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-22T13:57+08:00",
-      "sector": "AI/科技",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
