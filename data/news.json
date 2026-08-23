@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-08-23 14:25 北京时间",
-  "total": 64,
+  "last_updated": "2026-08-23 15:25 北京时间",
+  "total": 65,
   "items": [
+    {
+      "id": "4eaff49e3259",
+      "title": "【广发策略】4.7%的美债再成焦点，究竟如何影响权益定价？",
+      "summary": "来源：晨明的策略深度思考 本文作者：刘晨明/郑恺/李如娟 8月以来美债10Y再度冲至4.6-4.8%，但与5月冲击4.7%的情况相比，两次定价截然相反，5月模型厂商ARR加速上行...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-23/doc-iniphsst0601289.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-23T14:40+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "966a9458ae53",
       "title": "阿里拟配售新股，全部投入AI建设",
@@ -546,7 +557,7 @@
       "title": "高盛：石药集团维持“买入”评级 目标价上调至12.56港元",
       "summary": "高盛发布研报称，维持石药集团（01093）“买入”评级，将2026至2028年盈利预测上调0.2%至1.7%，目标价由12.14港元上调至12.56港元。",
       "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkw2605988.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-23T12:28+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
