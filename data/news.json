@@ -1,7 +1,106 @@
 {
-  "last_updated": "2026-08-24 12:43 北京时间",
-  "total": 72,
+  "last_updated": "2026-08-24 13:37 北京时间",
+  "total": 76,
   "items": [
+    {
+      "id": "ccd00ad67512",
+      "title": "情节严重！造谣“分析师孙潇雅因吹票被罚8亿元”，38岁男子被警方行拘7天",
+      "summary": "记者了解到，此前网络流传的“天风证券分析师孙潇雅因吹票被罚8亿元”的不实传言已有处理结果。38岁男子因实施诽谤违法行为，且情节严重，被警方处以行政拘留7日。",
+      "url": "https://finance.sina.com.cn/stock/fxsdt/2026-08-24/doc-inipkvrw6202477.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:32+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "3f56853cc880",
+      "title": "【能源透视局】告别普涨时代：光伏增长靠仰望星空or扎根大地？",
+      "summary": "备选：太空光伏横空出世！跳出内卷，光伏产业新增长曲线在哪里？ 2026年，太空光伏悄然成为资本市场高频词汇。SpaceX、谷歌、国内之江实验室纷纷加码太空算力卫星...",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-24/doc-inipkvrw6197335.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:26+08:00",
+      "sector": "商业航天/军工",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "e8470cb6c421",
+      "title": "宇树科技上市带来估值锚  创金合信基金张小郭：人形机器人板块有望从主题炒作转向产业定价",
+      "summary": "人形机器人板块备受关注。8月19日，宇树科技登陆科创板，成为 A 股人形机器人第一股。创金合信兴选产业趋势混合基金经理张小郭表示...",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-24/doc-inipkvry2969707.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:26+08:00",
+      "sector": "AI/科技",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "7daa035da29b",
+      "title": "光大证券：长飞光纤光缆上半年盈利显著提升 光互连业务有望维持高景气度",
+      "summary": "光大证券发布研报称，长飞光纤光缆（06869）发布2026H1业绩，期内光纤涨价显著增厚利润，集团营业收入高速增长，盈利能力显著提升。",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-24/doc-inipkvrt0079015.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:10+08:00",
+      "sector": "金融",
+      "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "4f90608e8796",
+      "title": "从阿里财报看终局：你走你的外卖，我走我的AI",
+      "summary": "来源：深水Tech 作者 | 深水Tech 刘川风 编辑 | 吃算力的野生菌 所有的战斗已经结束了。电商是血包，外卖在撤退，AI才是终局。 8月20日...",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-08-24/doc-inipkvrt0090776.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:10+08:00",
+      "sector": "半导体/芯片",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "be04055f4230",
+      "title": "比特币ETF上周流入资金规模创10个月以来最大",
+      "summary": "随着比特币价格飙升，现货比特币交易所交易基金（ETF）上周录得10个月以来最强劲的单周资金流入。 数据显示，13只在美国上市的基金净吸引资金19.2亿美元...",
+      "url": "https://finance.sina.com.cn/world/2026-08-24/doc-inipkvru2026371.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T13:05+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "800b9e293736",
+      "title": "伊朗称阿曼外交部长将于周二访问德黑兰",
+      "summary": "伊朗外交部发言人Esmail Baghaei发表声明指出，阿曼外长Badr bin Hamad Al Busaidi将访问德黑兰，继续就这两个霍尔木兹海峡邻国之间展开政治磋商。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkvrw6180572.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T12:53+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "293af655fd2b",
+      "title": "阿里巴巴融资800亿股价大跌，市场热议港股“二次探底”",
+      "summary": "日本央行9月议息会议前后市场或延续大幅波动。 阿里巴巴（09988.HK）公布近800亿港元融资计划，8月24日开盘股价一度大跌超过10%，迅速跌破增发价，拖累港股低开低走。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkvry2950382.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T12:45+08:00",
+      "sector": "宏观/政策",
+      "sentiment": "negative",
+      "importance": "normal"
+    },
+    {
+      "id": "c74b2ffdea83",
+      "title": "中信证券半年报：总资产、净资本、国内收入皆低于国泰海通 多项细分指标丢掉“一哥”宝座",
+      "summary": "出品：新浪财经上市公司研究院 作者：图灵 近日，中信证券、国泰海通等券商发布了2026年半年报。 尽管中信证券营收、净利润还高于国泰海通，但总资产、净资产...",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-08-24/doc-inipkvrt0059885.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T12:44+08:00",
+      "sector": "金融",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
     {
       "id": "12bb137471f9",
       "title": "现货金价升至逾三个月高位 “贬值交易”卷土重来",
@@ -44,6 +143,28 @@
       "pub_time": "2026-08-24T12:29+08:00",
       "sector": "综合/其他",
       "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "e5525d2c7c90",
+      "title": "百万桶石油“集体失联”？阿拉伯湾八成油轮隐身，暗渡海峡运石油",
+      "summary": "转自：财联社 财联社8月24日讯（编辑 刘靖怡）中东海湾国家航运业正在使用“隐身”战术穿越被伊朗封锁的霍尔木兹海峡，以将石油资源运输到国际市场。",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkvru1996921.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T12:24+08:00",
+      "sector": "有色/资源",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "f24fe078a682",
+      "title": "美加关税博弈：卡尼强硬刚特朗普，加拿大主权保卫战引爆全球目光",
+      "summary": "汇通财经APP讯——当全球经济博弈的棋局进入深水区，主权与强权的碰撞正掀起惊涛骇浪。 加拿大总理马克·卡尼（Mark Carney）以一句“中等强国必须挺身对抗经济胁迫”的呐喊...",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-24/doc-inipkvry2931878.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T12:12+08:00",
+      "sector": "国际市场",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -110,6 +231,17 @@
       "pub_time": "2026-08-24T11:58+08:00",
       "sector": "医药/生物",
       "sentiment": "positive",
+      "importance": "normal"
+    },
+    {
+      "id": "16431d392b39",
+      "title": "民生人寿否认董事长因“生肖不和”裁员 但代理人单季减少超900人",
+      "summary": "近日，有疑似民生人寿员工在社交平台上爆料，民生人寿董事长把和自己生肖属相不合的人全部裁员。另有报道称，工作多年的员工如果学历不是一本也要被裁。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkvry2922492.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T11:58+08:00",
+      "sector": "综合/其他",
+      "sentiment": "neutral",
       "importance": "normal"
     },
     {
@@ -208,6 +340,17 @@
       "source": "新浪财经",
       "pub_time": "2026-08-24T11:27+08:00",
       "sector": "国际市场",
+      "sentiment": "neutral",
+      "importance": "normal"
+    },
+    {
+      "id": "52df3b26a9f9",
+      "title": "手握4750亿元流动资金，阿里为什么还要配股800亿？",
+      "summary": "来源：微微山巅仙客 手握4750亿元流动资金，阿里为什么还要配股800亿？ AI资本开支如何从利润表穿透到自由现金流 一家企业账上有将近4750亿元现金及流动投资...",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-08-24/doc-inipkvrw6199172.shtml",
+      "source": "新浪财经",
+      "pub_time": "2026-08-24T11:26+08:00",
+      "sector": "AI/科技",
       "sentiment": "neutral",
       "importance": "normal"
     },
@@ -410,22 +553,11 @@
       "importance": "normal"
     },
     {
-      "id": "00413a184cfd",
-      "title": "三星跌近8%，港股存储芯片股全线下跌，两倍做多三星电子大跌16%",
-      "summary": "8月24日消息，港股存储芯片股集体下跌，其中，南方两倍做多三星电子大跌16%，兆易创新、伟仕佳杰跌超5%，澜起科技跌超4%，南方东英SK海力士每日杠杆最多（2x）产品跌超3%。...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-08-24/doc-inipkriw2061760.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-24T10:52+08:00",
-      "sector": "半导体/芯片",
-      "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
       "id": "b30d6f0c502c",
       "title": "海希通讯被立案 受损股民可索赔",
       "summary": "2026年8月21日晚，上海海希工业通讯股份有限公司（代码：920405 简称：海希通讯）发布《关于公司收到中国证券监督管理委员会立案告知书的公告》 。",
       "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-24/doc-inipkriy6247562.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:48+08:00",
       "sector": "金融",
       "sentiment": "neutral",
@@ -436,7 +568,7 @@
       "title": "光期研究周度观点0823：有色金属类",
       "summary": "铜：库存压力缓解 铜价高位震荡 （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 1、宏观。美国经济数据延续“制造业扩张、就业韧性...",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkrka3013124.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:46+08:00",
       "sector": "有色/资源",
       "sentiment": "neutral",
@@ -447,7 +579,7 @@
       "title": "光期研究周度观点0823：软商品类",
       "summary": "白糖：印度放开进口 引燃海外市场情绪 （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 1、原糖：本周原糖期价继续上行，刷新高点。",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkriw2052710.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:46+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -458,7 +590,7 @@
       "title": "光期研究周度观点0823：农产品类",
       "summary": "油脂油料：多因素支撑 油粕突破性上涨 （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 本周国内外油脂油料整体偏强运行，原油强势、单产担忧、需求韧性...",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkriw2052340.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:45+08:00",
       "sector": "有色/资源",
       "sentiment": "neutral",
@@ -469,7 +601,7 @@
       "title": "光期研究周度观点0823：能源化工类",
       "summary": "原油：结构性矛盾仍在加剧，油价延续高波动 （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 1、周度油价重心继续上移，其中WTI新换10月合约收盘至87...",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkriv0100909.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:44+08:00",
       "sector": "有色/资源",
       "sentiment": "neutral",
@@ -480,7 +612,7 @@
       "title": "光期研究周度观点0823：矿钢煤焦类",
       "summary": "钢材：成本驱动明显增强，钢价或将震荡偏强 （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 螺纹方面，本周全国螺纹产量环比回落2.19万吨至180.38万吨...",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkriy6237735.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:42+08:00",
       "sector": "综合/其他",
       "sentiment": "neutral",
@@ -491,7 +623,7 @@
       "title": "佳缘科技被预处罚 股民索赔持续推进",
       "summary": "2026年8月23日晚，佳缘科技股份有限公司（简称：佳缘科技，代码：301117）发布关于收到《行政处罚事先告知书》的公告。",
       "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-24/doc-inipkriw2054103.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:42+08:00",
       "sector": "AI/科技",
       "sentiment": "neutral",
@@ -502,30 +634,8 @@
       "title": "光期研究周度观点0823：金融类",
       "summary": "金融类 股指：股指周度下跌，美债牵动全球 （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 上周，A股市场震荡下跌，Wind全A下跌1.45%，日均成交额2...",
       "url": "https://finance.sina.com.cn/money/future/2026-08-24/doc-inipkriy6237188.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:41+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "d4a882acc13a",
-      "title": "美债变局背后，黄金牛市逻辑彻底变了",
-      "summary": "（本文作者武泽伟为苏商银行特约研究员） 当前，黄金的上涨定价逻辑或已迎来关键切换。 自年初以来，金价自阶段性高位有所回落，多数市场机构将这一走势归因于美联储降息预...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkriv0097917.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-24T10:40+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "62dc358b113c",
-      "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
-      "summary": "转自：财联社 债券投资者本周无疑将把焦点牢牢锁定在美联储主席凯文·沃什于杰克逊霍尔全球央行年会的讲话上。随着美国财长贝森特上周的“救市”行动效果迅速消退...",
-      "url": "https://finance.sina.com.cn/money/bond/2026-08-24/doc-inipkriv0101228.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-24T10:40+08:00",
       "sector": "金融",
       "sentiment": "neutral",
       "importance": "normal"
@@ -535,21 +645,10 @@
       "title": "佳缘科技收到行政处罚事先告知书 投资者可参与索赔",
       "summary": "2026年8月23日晚间，佳缘科技发布关于收到《行政处罚事先告知书》的公告。公告显示：佳缘科技股份有限公司于2026年7月8日收到中国证券监督管理委员会出具的《立案告知书》...",
       "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-24/doc-inipkriy6241853.shtml",
-      "source": "新浪财经",
+      "source": "新浪A股",
       "pub_time": "2026-08-24T10:38+08:00",
       "sector": "AI/科技",
       "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "6f94cbe2685d",
-      "title": "“券茅”东财中报净利80.64亿增超四成，中期零分红、自营收益下滑34.81%",
-      "summary": "《星岛》记者 洪雨欣 深圳报道 有着“券茅”之称的东方财富（300059.SZ）8月21日晚间披露了上半年财报。数据显示，公司上半年实现营业总收入105.05亿元，同比增长53...",
-      "url": "https://finance.sina.com.cn/stock/quanshang/2026-08-24/doc-inipkriw2069365.shtml",
-      "source": "新浪财经",
-      "pub_time": "2026-08-24T10:38+08:00",
-      "sector": "综合/其他",
-      "sentiment": "negative",
       "importance": "normal"
     },
     {
@@ -627,61 +726,6 @@
       "pub_time": "2026-08-24T10:09+08:00",
       "sector": "金融",
       "sentiment": "negative",
-      "importance": "normal"
-    },
-    {
-      "id": "512c018c2624",
-      "title": "韩国上半年查获非法进口减重药物为去年全年三倍",
-      "summary": "韩国海关周一公布的数据显示，上半年从境外非法进口Wegovy、Mounjaro等减重药物的查获案件数量是2025年全年查获量的三倍以上。",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkrka2981063.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-24T10:01+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "379b76bdc06b",
-      "title": "趣致集团早盘涨超32% 股东应占利润1.66亿元同比增加34.89%",
-      "summary": "趣致集团（00917）盘中涨超36%，截至发稿，股价上涨32.28%，报10.45港元，成交额1.89亿港元。 趣致集团（00917）发布截至2026年6月30日止6个月中期业绩...",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-24/doc-inipkriw2010932.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-24T09:55+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "0fad17130074",
-      "title": "伟时电子信息披露违规 江苏证监局出具警示函",
-      "summary": "2024年11月19日盘后，伟时电子发布公告披露，公司及相关责任主体已收到江苏证监局下发的警示函。监管部门在现场检查过程中查实，公司过往信息披露工作存在多项不规范情形。...",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-24/doc-inipkrka2987474.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-24T09:53+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "4e8b28904ef3",
-      "title": "沿海家园于8月24日上午起短暂停牌 待刊发内幕消息",
-      "summary": "沿海家园（01124）发布公告，本公司股份自2026年8月24日上午九时起于香港联合交易所有限公司暂停买卖，以待本公司根据公司收购及合并守则刊发有关内幕消息的公布。",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkriv0055311.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-24T09:51+08:00",
-      "sector": "综合/其他",
-      "sentiment": "neutral",
-      "importance": "normal"
-    },
-    {
-      "id": "b6fff36aef1e",
-      "title": "沪紫律所递交一批次案件立案，受损股民征集持续进行中",
-      "summary": "近日，上海沪紫律师事务所刘鹏律师团队代理的投资者诉龙大美食（002726）、柯利达（603828）证券虚假陈述责任纠纷案件，已正式向有管辖权的人民法院递交共计39位投资者立案...",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-24/doc-inipkriv0083264.shtml",
-      "source": "新浪A股",
-      "pub_time": "2026-08-24T09:51+08:00",
-      "sector": "金融",
-      "sentiment": "neutral",
       "importance": "normal"
     },
     {
